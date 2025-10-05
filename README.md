@@ -96,9 +96,10 @@ The mediums together draw a single DMP (Data Management Planchette) card. The DM
 > While the blue Spirits belong to team blue, the white Spirits are Citizen Spirits and "Pseudoscience influencers" is in this case the evil Publishgeist.
 
 Decide which team begins as team red 🔴. The medium sends out their first spiritual message to their team. The message must be FAIR, meaning
-F - Focused: The hint should only be one word.
-A - Amount: The hint is followed by a number. That is the number of Open Spirits the medium wants their team to reveal this round.
-I - Inventive: The medium must not use any of the words that are on any of the Open Spirit cards.
+
+F - Focused: The hint should only be one word.\
+A - Amount: The hint is followed by a number. That is the number of Open Spirits the medium wants their team to reveal this round.\
+I - Inventive: The medium must not use any of the words that are on any of the Open Spirit cards.\
 R - Rudimentary: The medium should only say that word and not communicate in any other way.
 
 After the FAIR message has been sent, it is up to the other players of team red 🔴 to use it to identify their friendly Open Spirits. They may discuss the meaning of the message amongst each other and eventually vote on the first card they want to pick. The medium reveals the nature of the Open Spirit by placing the corresponding point card on top of the chosen card, as shown by the DMP. The players then continue to pick cards up until the amount mentioned in the FAIR message, plus one, is reached. For each revealed Spirit of the current teams color that team recieves one point. Each Spirit that is of the other team's color, however, awards that team a point. Revelaed Citizen Spirits give no points. If at any point in time the evil Publishgeist is revealed, the current team loses and the game ends immediately.
