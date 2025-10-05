@@ -23,23 +23,66 @@ Draw 20 Open Spirit cards and arrange them in a grid that is 5 cards wide and 4 
 
 The mediums together draw a single DMP (Data Management Planchette) card. The DMP shows which of the Open Spirits belong to which team. Both mediums can consult the DMP at any time, but must keep it face down for the rest of the time so to not reveal it to the other players.
 
->[!TIP]
+> [!TIP]
 >
 > Below is an example board of 20 Experience cards
-> 
-> | Copyright conundrums     | Code that only works on my computer | European AI             | Science done right   |
-> | Profit over science      | Journal flipping                    | Verifiable results      | 10k stars on GitHub  |
-> | Open, but broke          | Pseudoscience influencers           | Data papers             | Shadow IT            |
-> | My supervisor said so    | Coding with my crush                | Open Science Games      | Impostor Syndrome    |
-> | Code version history     | Supervisor ghosting                 | Power analysis          | Second author        |
-> 
+>
+> <table>
+>   <tbody>
+>     <tr>
+>       <td>Copyright conundrums</td>
+>       <td>Code that only works on my computer</td>
+>       <td>European AI</td>
+>       <td>Science done right</td>
+>     </tr>
+>     <tr>
+>       <td>Profit over science</td>
+>       <td>Journal flipping</td>
+>       <td>Verifiable results</td>
+>       <td>10k stars on GitHub</td>
+>     </tr>
+>     <tr>
+>       <td>Open, but broke</td>
+>       <td>Pseudoscience influencers</td>
+>       <td>Data papers</td>
+>       <td>Shadow IT</td>
+>     </tr>
+>     <tr>
+>       <td>My supervisor said so</td>
+>       <td>Coding with my crush</td>
+>       <td>Open Science Games</td>
+>       <td>Impostor Syndrome</td>
+>     </tr>
+>     <tr>
+>       <td>Code version history</td>
+>       <td>Supervisor ghosting</td>
+>       <td>Power analysis</td>
+>       <td>Second author</td>
+>     </tr>
+>   </tbody>
+> </table>
+>
 > The mediums drew this DMP card
 >
-> | ⚪ | ⚪ | 🔵 | 🔴 |
-> | ⚪ | 🔵 | 🔴 | 🔵 |
-> | 🔵 | ☠️ | 🔴 | 🔵 |
-> | ⚪ | ⚪ | 🔴 | 🔵 |
-> | 🔴 | ⚪ | 🔴 | 🔴 |
+> <table>
+>   <tbody>
+>     <tr>
+>       <td>⚪</td><td>⚪</td><td>🔵</td><td>🔴</td>
+>     </tr>
+>     <tr>
+>       <td>⚪</td><td>🔵</td><td>🔴</td><td>🔵</td>
+>     </tr>
+>     <tr>
+>       <td>🔵</td><td>☠️</td><td>🔴</td><td>🔵</td>
+>     </tr>
+>     <tr>
+>       <td>⚪</td><td>⚪</td><td>🔴</td><td>🔵</td>
+>     </tr>
+>     <tr>
+>       <td>🔴</td><td>⚪</td><td>🔴</td><td>🔴</td>
+>     </tr>
+>   </tbody>
+> </table>
 >
 > This means that the following Open Spirits belong to team red
 > - Science done right
