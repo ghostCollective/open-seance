@@ -23,7 +23,8 @@ Draw 20 Open Spirit cards and arrange them in a grid that is 5 cards wide and 4 
 
 The mediums together draw a single DMP (Data Management Planchette) card. The DMP shows which of the Open Spirits belong to which team. Both mediums can consult the DMP at any time, but must keep it face down for the rest of the time so to not reveal it to the other players.
 
->[!Example]
+>[!TIP]
+>
 > Below is an example board of 20 Experience cards
 > 
 > | Copyright conundrums     | Code that only works on my computer | European AI             | Science done right   |
@@ -33,6 +34,7 @@ The mediums together draw a single DMP (Data Management Planchette) card. The DM
 > | Code version history     | Supervisor ghosting                 | Power analysis          | Second author        |
 > 
 > The mediums drew this DMP card
+>
 > | ⚪ | ⚪ | 🔵 | 🔴 |
 > | ⚪ | 🔵 | 🔴 | 🔵 |
 > | 🔵 | ☠️ | 🔴 | 🔵 |
