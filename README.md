@@ -106,7 +106,7 @@ Decide which team begins as team 🟡 yellow. The Medium sends out their first s
 
 F - Focused: The hint should only be one word.\
 A - Amount: The hint is followed by a number. That is the number of Open Spirits the Medium wants their team to reveal this round.\
-I - Inventive: The Medium must not use any of the words that are on any of the Open Spirit cards.\
+I - Inventive: The Medium must not use any of the words that are on any of the Open Spirit cards on the table.\
 R - Rudimentary: The Medium should only say that word and not communicate in any other way.
 
 After the FAIR message has been sent, it is up to the other players of team 🟡 yellow to use it to identify their friendly Open Spirits. They may discuss the meaning of the message amongst each other and eventually vote on the first card they want to pick. The Medium reveals the nature of the Open Spirit by placing the corresponding point card on top of the chosen card, as shown by the DMP. The players then continue to select cards up until the amount mentioned in the FAIR message, plus one, is reached. For each revealed Spirit of the current team, that team receives one point. Each Spirit that is of the opposing team's color, however, awards that team a point. Revealed neutral ⚪ Citizen Spirits give no points. If at any point in time the evil ☠️ Publishgeist is revealed, the current team loses and the game ends immediately.
