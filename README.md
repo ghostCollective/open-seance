@@ -9,7 +9,7 @@ In Open Séance, two teams compete in a game that is all about picking the right
 The Séance can be held in two ways: 
 
 ### 1. The Experience Séance
-The group can choose to guess everyday experiences in research practice. These involve examples of not only successes of Open Science, but also challenges and setbacks. In this case, the light yellow side of the Séance cards are used.  
+The group can choose to guess everyday experiences in research practice. These involve examples of not only successes of Open Science, but also challenges and setbacks. In this case, the light purple side of the Séance cards are used.  
 
 ### 2. The Specialist Séance
 If the Séance circle is more advanced, they can also decide to play the game around specialist terms in the realm of Open Science. These include the lingo that professional staff and seasoned Open Science practicioners use to commuicate complex concepts in a concise manner.  
@@ -18,7 +18,7 @@ If the Séance circle is more advanced, they can also decide to play the game ar
 
 🧍4-10 players		⏰ 15-30 minutes	
 
-Before starting, divide the circle of players into two teams, with each team having at least two members. Each team indentifies one player as their Medium for the session. Players then decide if the Open Séance will be held with the Experience Spirits (light yellow card faces) or withe the Specialist Spirits (blue card faces). 
+Before starting, divide the circle of players into two teams, with each team having at least two members. Each team indentifies one player as their Medium for the session. Players then decide if the Open Séance will be held with the Experience Spirits (light purple card faces) or withe the Specialist Spirits (blue card faces). 
 Draw 20 Open Spirit cards and arrange them in a grid that is 5 cards wide and 4 cards tall. Make sure that, depending on the format of the Séance the correct side of the cards is facing up.
 
 The mediums together draw a single DMP (Data Management Planchette) card. The DMP shows which of the Open Spirits belong to which team. Both Mediums can consult the DMP at any time, but must keep it face down for the rest of the time so to not reveal it to the other players.
@@ -67,24 +67,24 @@ The mediums together draw a single DMP (Data Management Planchette) card. The DM
 > <table>
 >   <tbody>
 >     <tr>
->       <td>⚪</td><td>⚪</td><td>🟡</td><td>🟣</td>
->     </tr>
->     <tr>
->       <td>⚪</td><td>🟡</td><td>🟣</td><td>🟡</td>
->     </tr>
->     <tr>
->       <td>🟡</td><td>☠️</td><td>🟣</td><td>🟡</td>
->     </tr>
->     <tr>
 >       <td>⚪</td><td>⚪</td><td>🟣</td><td>🟡</td>
 >     </tr>
 >     <tr>
->       <td>🟣</td><td>⚪</td><td>🟣</td><td>🟣</td>
+>       <td>⚪</td><td>🟣</td><td>🟡</td><td>🟣</td>
+>     </tr>
+>     <tr>
+>       <td>🟣</td><td>☠️</td><td>🟡</td><td>🟣</td>
+>     </tr>
+>     <tr>
+>       <td>⚪</td><td>⚪</td><td>🟡</td><td>🟣</td>
+>     </tr>
+>     <tr>
+>       <td>🟡</td><td>⚪</td><td>🟡</td><td>🟡</td>
 >     </tr>
 >   </tbody>
 > </table>
 >
-> This means that the following Open Spirits belong to team purple 🟣
+> This means that the following Open Spirits belong to team yellow 🟡
 > - Science done right
 > - Verifiable results
 > - Data papers
@@ -93,21 +93,21 @@ The mediums together draw a single DMP (Data Management Planchette) card. The DM
 > - Power analysis
 > - Code version history
 > 
-> Vice versa, the 🟡 yellow Spirits belong to that team.
+> Vice versa, the 🟣 purple Spirits belong to that team.
 > 
 > The ⚪ blank spaces are neutral Citizen Spirits. But there is also an sinister spirit hiding under "Pseudoscience influencers". This is the evil ☠️ Publishgeist.
 
-Decide which team begins as team 🟣 purple. The Medium sends out their first spiritual message to their team. The message must be FAIR, meaning
+Decide which team begins as team 🟡 yellow. The Medium sends out their first spiritual message to their team. The message must be FAIR, meaning
 
 F - Focused: The hint should only be one word.\
 A - Amount: The hint is followed by a number. That is the number of Open Spirits the Medium wants their team to reveal this round.\
 I - Inventive: The Medium must not use any of the words that are on any of the Open Spirit cards.\
 R - Rudimentary: The Medium should only say that word and not communicate in any other way.
 
-After the FAIR message has been sent, it is up to the other players of team 🟣 purple to use it to identify their friendly Open Spirits. They may discuss the meaning of the message amongst each other and eventually vote on the first card they want to pick. The Medium reveals the nature of the Open Spirit by placing the corresponding point card on top of the chosen card, as shown by the DMP. The players then continue to pick cards up until the amount mentioned in the FAIR message, plus one, is reached. For each revealed Spirit of the current team, that team recieves one point. Each Spirit that is of the opposing team's color, however, awards that team a point. Revelaed neutral Citizen Spirits give no points. If at any point in time the evil ☠️ Publishgeist is revealed, the current team loses and the game ends immediately.
+After the FAIR message has been sent, it is up to the other players of team 🟡 yellow to use it to identify their friendly Open Spirits. They may discuss the meaning of the message amongst each other and eventually vote on the first card they want to pick. The Medium reveals the nature of the Open Spirit by placing the corresponding point card on top of the chosen card, as shown by the DMP. The players then continue to pick cards up until the amount mentioned in the FAIR message, plus one, is reached. For each revealed Spirit of the current team, that team recieves one point. Each Spirit that is of the opposing team's color, however, awards that team a point. Revelaed neutral Citizen Spirits give no points. If at any point in time the evil ☠️ Publishgeist is revealed, the current team loses and the game ends immediately.
 Note that at any time during this process, if the players are unsure which Spirit to pick, they may instead also decide to stop choosing spirits and end their turn.
 
-The teams take turns until either all 🟣 purple or all 🟡 yellow Open Spirits are revealed. In that case, the team with the most revealed friendly Open Spirits wins. The game also ends if a team reveals the evil ☠️ Publishgeist. In that case the other team wins automatically.  
+The teams take turns until either all 🟡 yellow or all 🟣 purple Open Spirits are revealed. In that case, the team with the most revealed friendly Open Spirits wins. The game also ends if a team reveals the evil ☠️ Publishgeist. In that case the other team wins automatically.  
 
 ## Acknowledgements
 
