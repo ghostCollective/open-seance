@@ -119,11 +119,12 @@ The teams take turns until either all 🟡 yellow or all 🟣 purple Open Spirit
 
 This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
 
-- Bjorn Bartholdy, TU Delft
+- Bjørn Bartholdy, TU Delft
 - Dafne Jansen, Universiteit Utrecht
 - Dan Rudmann, Leiden University
 - Elisa Rodenburg, Vrije Universiteit Amsterdam 
 - Eva Lekkerkerker, University of Amsterdam
+- Katreine Blomme, Open University
 - Lena Karvovskaya, Vrije Universiteit Amsterdam
 - Lieke de Boer, Netherlands eScience Center
 - Meron Vermaas, Vrije Universiteit Amsterdam
