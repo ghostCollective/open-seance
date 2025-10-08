@@ -1,4 +1,4 @@
-# Open Séance
+# Open Séance 👻✨
 
 This repository contains the website, cards, and code to create cards for Open Séance, an educational game where players have to find creative ways to describe concepts around Open Science. If you are interested in the printed game, please reach out to us (rdm@vu.nl).
 
