@@ -8,13 +8,13 @@ In Open Séance, two teams compete in a game that is all about picking the right
 
 The Séance can be held in two ways: 
 
-### 1. The Experience Séance
+### 1. The Experience Séance 😮
 
-The group can choose to guess everyday experiences in research practice. These involve examples of not only successes of Open Science, but also challenges and setbacks. In this case, the light purple side of the Séance cards is used.  
+The group can choose to guess everyday experiences in research practice. These involve examples of not only successes of Open Science, but also challenges and setbacks. In this case, the light yellow sides of the Séance cards is used.  
 
-### 2. The Specialist Séance
+### 2. The Specialist Séance 🤓
 
-If the Séance circle is more advanced, they can also decide to play the game around specialist terms in the realm of Open Science. These include the lingo that professional staff and seasoned Open Science practicioners use to communicate complex concepts in a concise manner.  
+If the Séance circle is more advanced, they can also decide to play the game around specialist terms in the realm of Open Science. These include the lingo that professional staff and seasoned Open Science practicioners use to communicate complex concepts in a concise manner. Use the light blue sides of the Séance cards for this format.
 
 ## How to Play
 
