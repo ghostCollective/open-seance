@@ -1,358 +1,394 @@
-# Red Cards
+# Experience cards
 
-## Inclusivity
-
-Science is like building a house. This is not something that you can do alone.
-
-<https://youtu.be/tB_HeqnonNM?si=DyKlzBw1ONl1HAlf>
-
-## FAIR
-
-Findable, Accessible, Interoperable, and Reusable
-
-<https://www.go-fair.org/fair-principles/>
-
-## Transparency
-
-“Transparent research practices and processes also serve to demonstrate more rigorous methodologies or experimental protocols and to strengthen public perceptions of research quality, integrity and trust in the results, claims, conclusions and assertions derived from research activities.”
-
-<https://doi.org/10.18352/lq.10113>
-
-## Cat Memes
-
-Publish or Purrrish
-
-<https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html>
-
-
-## Capitalism
-
-“the appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications”
-
-<https://www.tandfonline.com/doi/full/10.1080/19460171.2017.1403342>
-
-## Judicious Connections
-
-“a process-oriented epistemology of science that recognizes the situated, embodied and goal-directed nature of communication and collaboration among researchers”
-
-<https://doi.org/10.1017/9781009416368>
-
-## Commercial Publishing
-
-“Is the staggeringly profitable business of scientific publishing bad for science?”
-
-<https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science>
-
-## Digital Sovereignty
-
-“the ability to have control over your own digital destiny: the data, hardware, and software that you rely on and create - is paramount for universities and other academic institutions as a prerequisite for equitable and open research and teaching”
-
-<https://doi.org/10.5281/zenodo.8328514>
-
-
-## Beyoncé
-
-“Okay, ladies, now let’s get in-formation.”
-
-<https://youtu.be/WDZJPJV__bQ?si=RLGOWMTUfp5e3Os5>
-
-## Preprint
-
-“Sharing preprints is a way to receive feedback and attract attention to your research at an early stage, which positively benefits the quality and impact of your research.”
-
-<https://doi.org/10.5281/zenodo.5600535>
-
-## Precarity
-
-“Open Science is primarily a labour issue, not an epistemological one.”
-
-<https://www.samuelmoore.org/2022/06/18/why-open-science-is-primarily-a-labour-issue/>
-
-## Free License
-
-“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”
-
-<https://choosealicense.com/>
-
-## Epistemic Justice
-
-"Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledges and ways of knowing at the very centre of knowledge acquisition."
-
-<https://youtu.be/mAurbQq8WsU?si=VdPZxliFPFij2Dft>
- 
-## Democracy
-
-“Knowledge that is created by public funding should be available to everyone and go beyond the walls of the academic system.”
-
-<https://open-science.cwts.nl/introduction/introduction-to-os-five-schools-of-open-science/democratic-school>
-
-## Invisible Labour
-
-“Open research practices represent a novel type of academic labour with high potential to be mismeasured or made invisible by workload models, raising expectations to even more unrealistic levels.”
-
-<https://journal.trialanderror.org/pub/the-invisible-workload/release/1>
-
-## Retraction Watch
-
-A website and blog that monitors and reports on retractions of scientific research articles, founded by Ivan Oransky and Adam Marcus
-
-<https://retractionwatch.com/>
-
-## Storytelling
-
-“Research in neuroscience has found that oral storytelling triggers different cognitive processes than facts, thus reducing the incidence of negative thoughts and feelings that are often generated when presented with new and challenging information.”
-
-<https://blogs.lse.ac.uk/impactofsocialsciences/2023/01/24/facts-dont-change-minds-social-networks-group-dialogue-and-stories-do/>
-
-## University Rankings
-
-“Rankings put too much stress on scoring and competition… it is almost impossible to capture the quality of an entire university…Also, the makers of the rankings use data and methods that are highly questionable.”
-
-<https://www.uu.nl/en/news/why-uu-is-missing-in-the-the-ranking>
-
-## Plan S
-
-a consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”
-
-<https://open-science.cwts.nl/introduction/open-scholarly-communication/a-brief-overview-of-plan-s>
-
-## Open-Washing
-
-“data publishers that are claiming their data is open, even when it’s not – but rather just available under limiting terms”
-
-<https://blog.okfn.org/2014/03/10/open-washing-the-difference-between-opening-your-data-and-simply-making-them-available/>
-
-## Spaghetti Code
-
-“research is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code”
-
+## Spaghetti code {#spaghetti-code}
 <https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0>
 
-## Pirate Care
+## Science done wrong {#science-done-wrong}
+<NA>
 
-“increasingly present forms of activism at the intersection of ‘care’ and ‘piracy’, which in new and interesting ways are trying to intervene in one of the most important challenges of our time, that is, the ‘crisis of care’ in all its multiple and interconnected dimensions.”
+## Flawless replication {#flawless-replication}
+<NA>
 
-<https://syllabus.pirate.care/>
+## Coding with my crush {#coding-with-my-crush}
+<NA>
 
-## PIDs
+## Diederik Stapel {#diederik-stapel}
+<https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#more-44194>
 
-“A persistent identifier is a long-lasting reference to a digital resource.”
+## 10k stars on GitHub {#x10k-stars-on-git-hub}
+<NA>
 
-<https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs->
+## Second author {#second-author}
+<NA>
 
-## APCs
+## Retraction watch leaderboard {#retraction-watch-leaderboard}
+<https://retractionwatch.com/the-retraction-watch-leaderboard/>
 
-“Article Processing Charges and the new enclosure of research”
+## Science done right {#science-done-right}
+<NA>
 
-<https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/11/article-processing-charges-apcs-and-the-new-enclosure-of-research/>
+## Data privacy audits {#data-privacy-audits}
+<NA>
 
-## Surveillance Publishing
+## PhD-level AI {#ph-d-level-ai}
+<NA>
 
-“our behavior—once alienated from us and abstracted into predictive metrics—will double back onto our work lives. Existing biases, like male academics’ propensity for self-citation, will receive a fresh coat of algorithmic legitimacy.”
+## Citing code {#citing-code}
+<https://www.esciencecenter.nl/news/code-citation-was-made-possible-by-research-software-engineers-in-germany-and-the-netherlands/>
 
-<https://elephantinthelab.org/surveillance-publishing/>
+## Restrictive university guidelines {#restrictive-university-guidelines}
+<NA>
 
-## Metadata
+## Copyright conundrums {#copyright-conundrums}
+<NA>
 
-“data about data… to make data findable [and] to make data citable”
+## EU-wide bans {#eu-wide-bans}
+<NA>
 
-<https://www.tudelft.nl/en/library/research-data-management/r/manage/collect-and-document>
+## Shadow IT {#shadow-it}
+<NA>
 
-## Privilege
+## Failing ethically {#failing-ethically}
+<NA>
 
-“Failing to address structural inequalities directly means that the advantages of those who are already privileged will grow, especially given that they have the most influence over how open science is implemented.”
+## 0 hour contracts {#x0-hour-contracts}
+<NA>
 
-<https://doi.org/10.1038/d41586-022-00724-0>
+## Open Science Games {#open-science-games}
+<NA>
 
-## Alexandra Elbakyan
+## Amateur scientists {#amateur-scientists}
+<NA>
 
-“she landed on an internet forum where a bunch of scientists were all looking for the same thing: access to academic journal articles that were behind paywalls. That’s the moment the very simple, but enormously powerful, website called Sci-Hub was born.”
+## Reproducibility badges {#reproducibility-badges}
+<NA>
 
-<https://radiolab.org/podcast/library-alexandra>
+## Supplementary materials {#supplementary-materials}
+<NA>
 
-## Climate Crisis
+## Interoperable caffeine pills {#interoperable-caffeine-pills}
+<NA>
 
-“Scientists Call out Publisher’s Ties to Fossil Fuel Industry”
+## Sensitive data on Dropbox {#sensitive-data-on-dropbox}
+<NA>
 
-<https://blog.ucsusa.org/kristy-dahl/5-anti-climate-practices-elsevier-must-cease-scientists-call-out-publishers-ties-to-fossil-fuel-industry/>
+## P-hacking {#p-hacking}
+<NA>
 
-## Globalisation
+## University Spin-off company {#university-spin-off-company}
+<NA>
 
-“Shifting from a local to a global viewpoint ought to mean multiplying viewpoints, registering a greater number of varieties, taking into account a larger number of beings, cultures, phenomena, organisms, and people.”
+## Publishing null results {#publishing-null-results}
+<NA>
 
-<https://youtu.be/EqzSVFmaH94?si=1G3sv1kcrPdHPLMQ>
+## Installation instructions {#installation-instructions}
+<NA>
 
-## Data Management Plans {#dmps}
+## Paywalled journals {#paywalled-journals}
+<NA>
 
-“much more than a formal requirement by funders or research institutions: they can be reflection tools to help researchers manage and plan their activities around data.”
+## Publishing raw data {#publishing-raw-data}
+<NA>
 
-<https://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans>
+## Data papers {#data-papers}
+<NA>
 
-## Team Science
+## APC waiver {#apc-waiver}
+<NA>
 
-“we leverage the strengths of diverse research teams, recognising that we cannot solve the significant challenges of our time through isolated endeavours”
+## Open, but broke {#open-but-broke}
+<NA>
 
-<https://doi.org/10.36850/mr8>
+## Buy this article {#buy-this-article}
+<NA>
 
-## Stochastic Parrots
+## Gatekeeping {#gatekeeping}
+<NA>
 
-“a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning”
+## Dear Esteemed Professor/Respected Researcher/Dr. ... {#dear-esteemed-professor-respected-researcher-dr}
+<NA>
 
-<https://doi.org/10.1145/3442188.3445922>
+## Publish-Review-Curate {#publish-review-curate}
+<NA>
 
-## Digital Competence Centers {#dcc}
+## Journal flipping {#journal-flipping}
+<NA>
 
-“DCCs are still relatively unknown among researchers within universities and research institutions, even though many of them receive requests for support in the area of data, software and computing.”
+## Profit over science {#profit-over-science}
+<NA>
 
-<https://www.surf.nl/en/magazine/digital-competence-centres-let-institutions-collaborate-more-intensively>
+## Diamond OA journal is my hobby {#diamond-oa-journal-is-my-hobby}
+<NA>
 
-## Early Career Researchers
+## Citation gap {#citation-gap}
+<NA>
 
-“The Future is Open!”
+## Publisher prestige {#publisher-prestige}
+<NA>
 
-<https://doi.org/10.5281/zenodo.7716153>
+## Supervisor ghosting {#supervisor-ghosting}
+<NA>
 
-## University Governance
+## Code version history {#code-version-history}
+<https://book.the-turing-way.org/reproducible-research/vcs/>
 
-“the system by which faculty, administrators, the board, and sometimes–but rarely–students work together to accomplish the academic mission of the institution.”
+## Lost in translation {#lost-in-translation}
+<NA>
 
-<https://manifold.umn.edu/projects/opening-ceremony>
+## 'It's the incentives, stupid' {#its-the-incentives-stupid}
+<https://doi.org/10.7557/5.7153>
 
-## Heroes
+## final_rev18_v2_withoutComments.pdf {#final-rev18-v2-without-comments-pdf}
+<NA>
 
-“Does science need heroes or does it need to reform? Idolizing heroes can worsen bias, inequality, and competition in science. Yet, it does require good leadership to ignite structural change.”
+## Code that only works on my computer {#code-that-only-works-on-my-computer}
+<NA>
 
-<https://www.leidenmadtrics.nl/articles/does-science-need-heroes>
+## A variable named 'temp' {#a-variable-named-temp}
+<NA>
 
-## The Right To Research {#right-to-research}
+## European AI {#european-ai}
+<NA>
 
-“the capacity to systematically increase the horizons of one's current knowledge, in relation to some task, goal or aspiration”
+## Yelling at ChatGPT {#yelling-at-chat-gpt}
+<NA>
 
-<https://doi.org/10.1080/14767720600750696>
+## Legal hot water {#legal-hot-water}
+<NA>
 
-## The Library
+## Uncontrollable AI {#uncontrollable-ai}
+<NA>
 
-“Libraries as Open Innovators and Leaders” 
+## Power analysis {#power-analysis}
+<https://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html>
 
-<https://doi.org/10.5281/zenodo.3909327>
+## Impostor Syndrome {#impostor-syndrome}
+<NA>
 
-## Research Software Engineer {#rse}
+## Expensive proprietary software {#expensive-proprietary-software}
+<NA>
 
-“a professional who combines expertise in software development and methodology with deep knowledge of one or more research fields”
+## Data on servers abroad {#data-on-servers-abroad}
+<NA>
 
-<https://doi.org/10.5281/zenodo.7994286>
+## Verifiable results {#verifiable-results}
+<NA>
 
-## Transformative Agreements
+## Sloppy peer-review {#sloppy-peer-review}
+<NA>
 
-“Transformative agreements are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”
+## A crashed hard drive {#a-crashed-hard-drive}
+<NA>
 
-<http://dx.doi.org/10.17613/xmj2-zd67>
+## Cherry-picking results {#cherry-picking-results}
+<NA>
 
-## Testimony
+## Public WiFi {#public-wi-fi}
+<NA>
 
-“Research outputs are a form of testimony with researchers serving as expert testifiers. Research outputs align with philosophical understandings of testimony, as research represents an everyday, informal communicative act.”
+## Citing Wikipedia {#citing-wikipedia}
+<NA>
 
-<https://doi.org/10.5860/crl.84.4.513>
+## Pseudoscience influencers {#pseudoscience-influencers}
+<NA>
 
-## The Commons
+## My supervisor said so {#my-supervisor-said-so}
+<NA>
 
-“a practice of cultivating and caring for the relationships that exist around the production of shared resources”
+# Technical term cards
 
-<http://dx.doi.org/10.17613/M6901ZF54>
+## Accessible {#accessible}
+<NA>
 
-## Worms
+## Article Processing Charge {#article-processing-charge}
+<https://vu.nl/en/about-vu/divisions/university-library/more-about/gold-open-access-deals-with-publishers>
 
-“How a worm showed us the way to open science”
+## Artificial Intelligence {#artificial-intelligence}
+<NA>
 
-<https://youtu.be/CTwcYQ9WHOA?si=G0zCjnObeCK9eiwk>
+## Author Accepted Manuscript {#author-accepted-manuscript}
+<NA>
 
-## Disruption
+## Barcelona Declaration {#barcelona-declaration}
+<https://barcelona-declaration.org/>
 
-“Recent decades have witnessed exponential growth in the volume of new scientific and technological knowledge, thereby creating conditions that should be ripe for major advances. Yet contrary to this view, studies suggest that progress is slowing in several major fields.”
+## Bibliodiversity {#bibliodiversity}
+<NA>
 
-<https://doi.org/10.1038/s41586-022-05543-x>
+## CARE {#care}
+<https://doi.org/10.1038/s41597-021-00892-0>
 
-## Aaron Swartz
+## CRediT {#credit}
+<https://credit.niso.org/>
 
-“We need to take information, wherever it is stored, make our copies and share them with the world…But sharing isn't immoral — it's a moral imperative. Only 
-those blinded by greed would refuse to let a friend make a copy.”
+## CWTS Leiden Ranking {#cwts-leiden-ranking}
+<NA>
 
-<https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt>
+## Citizen science {#citizen-science}
+<https://citizenscience.nl/p/wat-is-citizen-science>
 
-## Gender
+## Code Review {#code-review}
+<NA>
 
-“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes” by Susan Täuber
-
-<https://doi.org/10.1111/joms.12516>
-
-## Modular Publishing
-
-“modules of research outputs are communicated along the way and are directly linked to each other to form a network of outputs that can facilitate research evaluation”
-
-<https://doi.org/10.3390/publications6020021>
-
-## Scaling Small
-
-“the idea that scale can be nurtured through intentional collaborations between community-driven pro­jects that promote a bibliodiverse ecosystem while providing resilience through resource sharing and other kinds of collaboration”
-
-<https://doi.org/10.16997/wpcc.918>
-
-## Failure
-
-“academia should embrace failure: It is a community built on the twin pillars of education and research using the scientific method, with failure playing a vital role in both”
-
-<https://journal.trialanderror.org/pub/failfast/release/4>
-
-## Scientific Reform
-
-“reform foregrounds values that never were strangers to science such as honesty, transparency and accountability, yet seeks to embed them into changed or improved scientific processes and instruments”
-
-<https://doi.org/10.1177/02704676221126388>
-
-## FOSS – Free and Open Source Software {#foss}
-
-“Developing software in the open enhances opportunities to improve transparency, security, and innovation, and even establish a competitive advantage.”
-
-<https://commonplace.knowledgefutures.org/pub/ktd793z4/release/1?readingCollection=54d28214>
-
-## Independence
-
-“The power that technology companies hold could damage the autonomy of science.”
-
-<https://youtu.be/9W9eN0zOJxk?si=do34xEyJXJ1wLPJZ>
-
-## Community
-
-“Research and Knowledge Organisations are impactful primarily through their capacity to bring people together. Therefore, Community is crucial to the generative function and success of Research and Knowledge Organisations.”
-
+## Community-led {#community-led}
 <https://doi.org/10.53962/k06w-2ket>
 
-## Reclaiming The Internet {#reclaiming-internet}
+## Copyright {#copyright}
+<NAhttps://uba.uva.nl/en/support/copyright/researchers/researchers.html>
 
-“We need alternative platforms that serve society instead of listed companies.”
+## Data Management Plan {#data-management-plan}
+<https://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans>
 
-<https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/news/2022/10/we-must-reclaim-the-internet-before-it-is-too-late.html>
+## Data Steward {#data-steward}
+<https://openworking.wordpress.com/2024/08/27/from-researcher-to-data-steward-how-to-get-started/>
 
-## Dual-Use
+## Digital Competence Centre {#digital-competence-centre}
+<https://www.surf.nl/en/magazine/digital-competence-centres-let-institutions-collaborate-more-intensively>
 
-“Dual-use research of concern (DURC) describes research that is intended to provide a clear benefit, but which could easily be misapplied to do harm.”
+## Embargo period {#embargo-period}
+<NA>
 
-<https://www.who.int/news-room/questions-and-answers/item/what-is-dual-use-research-of-concern>
+## Ethical Review Board {#ethical-review-board}
+<https://en.wikipedia.org/wiki/Institutional_review_board>
 
-## Data Privacy
+## FAIR {#fair}
+<https://www.go-fair.org/fair-principles/>
 
-“We need to enact data privacy laws that require data companies to be more transparent about how they are collecting and using our data, and more accountable for it.”
+## Findable {#findable}
+<NA>
 
-<https://www.wired.com/story/big-information-relx-privacy-surveillance-data/>
+## Funder requirements {#funder-requirements}
+<NA>
 
-## Knowledge Security
+## GDPR {#gdpr}
+<NA>
 
-“(1) the undesirable transfer of knowledge and technology that may pose a threat to national security, (2) covert influence and interference by or from other states, and (3) ethical and integrity issues”
+## Impact factor {#impact-factor}
+<NA>
 
-<https://www.knaw.nl/en/news/royal-netherlands-academy-arts-and-sciences-knaw-warns-against-proposed-knowledge-security-act>
+## Institutional repository {#institutional-repository}
+<NA>
 
-## Creativity
+## Interoperable {#interoperable}
+<NA>
 
-“even though the creative act requires considerable effort, in the end you will be contributing to the vast network of love that supports human existence”
+## Linked Data {#linked-data}
+<NA>
 
-<https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/>
+## Metadata {#metadata}
+<https://www.tudelft.nl/en/library/research-data-management/r/manage/collect-and-document>
+
+## Non-exclusive license {#non-exclusive-license}
+<NA>
+
+## Open Access {#open-access}
+<NA>
+
+## Open Infrastructure {#open-infrastructure}
+<NA>
+
+## Open Peer Review {#open-peer-review}
+<NA>
+
+## Open Science {#open-science}
+<NA>
+
+## Open Science Communities {#open-science-communities}
+<NA>
+
+## Open Source {#open-source}
+<NA>
+
+## Open education {#open-education}
+<NA>
+
+## Overlay journal {#overlay-journal}
+<NA>
+
+## Paywall {#paywall}
+<https://archive.org/details/PaywallTheBusinessOfScholarshipFinalMovieMastered>
+
+## Persistent identifier {#persistent-identifier}
+<NA>
+
+## Predatory journal {#predatory-journal}
+<https://www.predatoryjournals.org/>
+
+## Preprint {#preprint}
+<https://doi.org/10.5281/zenodo.5600535>
+
+## Preregistration {#preregistration}
+<https://www.cos.io/initiatives/prereg>
+
+## Publish or Perish {#publish-or-perish}
+<https://en.wikipedia.org/wiki/Publish_or_perish>
+
+## Publish, review, curate {#publish-review-curate}
+<https://www.coalition-s.org/blog/peer-reviewed-preprints-and-the-publish-review-curate-model/>
+
+## Recognition and rewards {#recognition-and-rewards}
+<https://recognitionrewards.nl/>
+
+## Registered report {#registered-report}
+<https://www.cos.io/initiatives/registered-reports>
+
+## Replication {#replication}
+<NA>
+
+## Replication Crisis {#replication-crisis}
+<https://en.wikipedia.org/wiki/Replication_crisis>
+
+## Reproducible {#reproducible}
+<NA>
+
+## Research Cycle {#research-cycle}
+<NA>
+
+## Research Software {#research-software}
+<NA>
+
+## Research Software Engineer {#research-software-engineer}
+<https://doi.org/10.5281/zenodo.7994286>
+
+## Retraction watch {#retraction-watch}
+<https://retractionwatch.com/>
+
+## Reusable {#reusable}
+<NA>
+
+## Reviewer Fatigue {#reviewer-fatigue}
+<https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reviewer-fatigue-why-scholars-decline-to-review-their-peers-work/762AE347CF96E6FD20DB64B1C0D48C25>
+
+## Rights Retention Strategy {#rights-retention-strategy}
+<https://vu.nl/en/about-vu/divisions/university-library/more-about/rights-retention-strategy>
+
+## Science Communication {#science-communication}
+<NA>
+
+## Self-archiving {#self-archiving}
+<NA>
+
+## Societal impact {#societal-impact}
+<NA>
+
+## Software Management Plan {#software-management-plan}
+<https://zenodo.org/records/7589725>
+
+## Software repository {#software-repository}
+<NA>
+
+## Taverne {#taverne}
+<https://library.maastrichtuniversity.nl/research/publishing/information/sharing-research-outputs/taverne/>
+
+## Team science {#team-science}
+<https://doi.org/10.36850/mr8>
+
+## Transparency {#transparency}
+<NA>
+
+## Version Control {#version-control}
+<NA>
+
+## Zenodo {#zenodo}
+<https://zenodo.org/>
+

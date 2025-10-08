@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  title: "O❤️S"
-  repo-url: "https://github.com/NLeSC/open-loves-science"
+  repo-url: "https://github.com/ghostCollective/open-seance"
+  site-url: "https://ghostCollective.github.io/open-seance"
   page-footer: 
-    left: "Made with ❤️ and Quarto"
+    center: "Made with 👻 and Quarto"
   navbar:
     left:
       - href: index.qmd
@@ -16,14 +16,14 @@ website:
         text: "Rules"
     right: 
       - icon: github
-        href: https://github.com/NLeSC/open-loves-science
+        href: https://github.com/ghostCollective/open-seance
         aria-label: GitHub
 
 format:
   html:
-    theme: [default, theme.scss]
-    #css: styles.css
+    theme: 
+      dark: night-seance.scss
+      light: day-seance.scss
     toc: true
-
-
+    include-after-body: assets/partials/footer.html
 
