@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+// typeface
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+// colours
+
+$primary: #f5dfbc;
+$white: #ffffff;
+$black: #000000;
+$secondary: #420a0b;
+
+$navbar-bg: transparent;
+$body-bg: $primary;
+$link-color: $secondary;
+
+/*-- scss:rules --*/
+
+body {
+  background-image: url('assets/img/spooky.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+}
+
+h1, h2, h3 {
+  color: $secondary;
+  font-family: 'Irish Grover', sans-serif;
+  font-weight: 400;
+}
+
+footer img {
+  width: fit-content;
+}
+
+.footer-web {
+   filter: invert(9%) sepia(100%) saturate(1707%) hue-rotate(337deg) brightness(72%) contrast(103%) opacity(16%);
+}

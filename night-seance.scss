@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+
+// typeface
+@import 'day-seance.scss';
+
+// colours
+
+$primary: #2f5c96ff;
+$white: #ffffff;
+$black: #000000;
+$secondary: #f5dfbc;
+
+$navbar-bg: transparent;
+$body-bg: $primary;
+$body-color: $white;
+$link-color: $secondary;
+
+/*-- scss:rules --*/
+
+body {
+  background-image: url('assets/img/spooky-head.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+}
+
+h1, h2, h3 {
+  color: $secondary;
+  font-family: 'Irish Grover', sans-serif;
+  font-weight: 400;
+}
+
+footer img {
+  width: fit-content;
+}
+
+.footer-web {
+   filter: invert(98%) sepia(51%) saturate(954%) hue-rotate(308deg) brightness(101%) contrast(92%) opacity(16%);
+}
