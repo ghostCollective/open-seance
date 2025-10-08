@@ -2,16 +2,35 @@
 title: Rules of the Game
 ---
 
-🧍3-7 players ⏰ 5 minutes - 24 hours 🏋️ difficulty level: researcher friendly
+**The Game:** Two teams, each with a Medium. The mediums sit together and one side of the board and use the séance cheat sheet to see which words the teams need to guess. The mediums give one word clues to nudge their team into choosing the right cards.
 
-Game Mechanics:
-The game is played with two types of cards: red and white. Red cards feature a variety of Open Science concepts, from abstract to highly practical, each accompanied by a brief description and a hyperlink for further exploration. White cards, meanwhile, embody the core principles of Open Science. The challenge lies in finding the most fitting match between a white principle card and a red concept card. The role of the Open Science Cupid is to determine which pairing shines the brightest!
-To begin, shuffle the red cards and deal five to each player, placing the remainder in a face-down stack. Then, shuffle the white cards to create another stack. Choose the first Open Science Cupid, who will unveil the first white card from the pile. Players then each select one of their red cards to play. The Cupid has the discretion to set the criteria for the most harmonious match. The winner of the round claims the white card, earning a point. The Cupid's role then passes to the next player on the left. Continue the game until all white cards have been awarded.
+**Components:**
 
-## Variation 1: Speed Dating
+65 x Technical terms / Experience cards
+10 x Séance Cheat Sheets
+6x Yellow Ghosts
+5x Lilac Ghosts
+10x Blue Ghosts
 
-In this fast-paced twist, after the Cupid presents the white card for the round, players submit their red cards anonymously and face-down. The Cupid then chooses their favorite match and shares the rationale behind their decision with the group.
+**Set-up:** Lay out the Technical terms / Experience cards in a 4x5 grid. Each team chooses a medium who sits next to the other medium opposed on the table. The team that has been haunted by a predatory journal most recently starts.
 
-## Variation 2: Open Declaration
+**Goal:** Be the first team to reveal all of their Yellow or Lilac words on the grid.
 
-For a more open challenge, after the Cupid reveals the white card, players place their red cards face up and articulate their reasons for the pairing. The Cupid is then tasked with selecting the winning match based on the strength of the arguments presented
+**Start of game:** Yellow always starts, but has to guess one card extra. Choose either the side with the Technical Terms or Experiences.
+Turn: The Medium gives one word + a number as a clue. The Players of the Medium’s team guess which cards are meant, up to the number given + one extra. Cover the guessed words with your ghost cards.
+
+**Legend as stated on the séance cheat sheet:**
+
+- Yellow = words belonging to the Yellow team
+- Lilac = words belonging to the Lilac team
+- Blue = neutral words
+- Black/Polterjournal = instant loss if chosen
+
+**Wrong Guesses:**
+
+Blue: the turn ends immediately, no other effect.  
+Other team's color: that word is revealed for the other team and the turn ends.
+
+**End Game:**
+A team wins by revealing all of their words first.
+Choosing the Polterjournal causes an immediate loss.
