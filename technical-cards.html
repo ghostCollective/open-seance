@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Open Séance</title>
+<title>Technical cards – Open Séance</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -254,7 +254,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -300,47 +300,358 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#open-séance" id="toc-open-séance" class="nav-link active" data-scroll-target="#open-séance">Open Séance</a>
-  <ul class="collapse">
-  <li><a href="#goal-of-the-game" id="toc-goal-of-the-game" class="nav-link" data-scroll-target="#goal-of-the-game">Goal of the Game</a></li>
-  <li><a href="#acknowledgements" id="toc-acknowledgements" class="nav-link" data-scroll-target="#acknowledgements">Acknowledgements</a></li>
-  </ul></li>
+  <li><a href="#accessible" id="toc-accessible" class="nav-link active" data-scroll-target="#accessible">Accessible</a></li>
+  <li><a href="#article-processing-charge" id="toc-article-processing-charge" class="nav-link" data-scroll-target="#article-processing-charge">Article Processing Charge</a></li>
+  <li><a href="#artificial-intelligence" id="toc-artificial-intelligence" class="nav-link" data-scroll-target="#artificial-intelligence">Artificial Intelligence</a></li>
+  <li><a href="#author-accepted-manuscript" id="toc-author-accepted-manuscript" class="nav-link" data-scroll-target="#author-accepted-manuscript">Author Accepted Manuscript</a></li>
+  <li><a href="#barcelona-declaration" id="toc-barcelona-declaration" class="nav-link" data-scroll-target="#barcelona-declaration">Barcelona Declaration</a></li>
+  <li><a href="#bibliodiversity" id="toc-bibliodiversity" class="nav-link" data-scroll-target="#bibliodiversity">Bibliodiversity</a></li>
+  <li><a href="#care" id="toc-care" class="nav-link" data-scroll-target="#care">CARE</a></li>
+  <li><a href="#credit" id="toc-credit" class="nav-link" data-scroll-target="#credit">CRediT</a></li>
+  <li><a href="#cwts-leiden-ranking" id="toc-cwts-leiden-ranking" class="nav-link" data-scroll-target="#cwts-leiden-ranking">CWTS Leiden Ranking</a></li>
+  <li><a href="#citizen-science" id="toc-citizen-science" class="nav-link" data-scroll-target="#citizen-science">Citizen science</a></li>
+  <li><a href="#code-review" id="toc-code-review" class="nav-link" data-scroll-target="#code-review">Code Review</a></li>
+  <li><a href="#community-led" id="toc-community-led" class="nav-link" data-scroll-target="#community-led">Community-led</a></li>
+  <li><a href="#copyright" id="toc-copyright" class="nav-link" data-scroll-target="#copyright">Copyright</a></li>
+  <li><a href="#data-management-plan" id="toc-data-management-plan" class="nav-link" data-scroll-target="#data-management-plan">Data Management Plan</a></li>
+  <li><a href="#data-steward" id="toc-data-steward" class="nav-link" data-scroll-target="#data-steward">Data Steward</a></li>
+  <li><a href="#digital-competence-centre" id="toc-digital-competence-centre" class="nav-link" data-scroll-target="#digital-competence-centre">Digital Competence Centre</a></li>
+  <li><a href="#embargo-period" id="toc-embargo-period" class="nav-link" data-scroll-target="#embargo-period">Embargo period</a></li>
+  <li><a href="#ethical-review-board" id="toc-ethical-review-board" class="nav-link" data-scroll-target="#ethical-review-board">Ethical Review Board</a></li>
+  <li><a href="#fair" id="toc-fair" class="nav-link" data-scroll-target="#fair">FAIR</a></li>
+  <li><a href="#findable" id="toc-findable" class="nav-link" data-scroll-target="#findable">Findable</a></li>
+  <li><a href="#funder-requirements" id="toc-funder-requirements" class="nav-link" data-scroll-target="#funder-requirements">Funder requirements</a></li>
+  <li><a href="#gdpr" id="toc-gdpr" class="nav-link" data-scroll-target="#gdpr">GDPR</a></li>
+  <li><a href="#impact-factor" id="toc-impact-factor" class="nav-link" data-scroll-target="#impact-factor">Impact factor</a></li>
+  <li><a href="#institutional-repository" id="toc-institutional-repository" class="nav-link" data-scroll-target="#institutional-repository">Institutional repository</a></li>
+  <li><a href="#interoperable" id="toc-interoperable" class="nav-link" data-scroll-target="#interoperable">Interoperable</a></li>
+  <li><a href="#linked-data" id="toc-linked-data" class="nav-link" data-scroll-target="#linked-data">Linked Data</a></li>
+  <li><a href="#metadata" id="toc-metadata" class="nav-link" data-scroll-target="#metadata">Metadata</a></li>
+  <li><a href="#non-exclusive-license" id="toc-non-exclusive-license" class="nav-link" data-scroll-target="#non-exclusive-license">Non-exclusive license</a></li>
+  <li><a href="#open-access" id="toc-open-access" class="nav-link" data-scroll-target="#open-access">Open Access</a></li>
+  <li><a href="#open-infrastructure" id="toc-open-infrastructure" class="nav-link" data-scroll-target="#open-infrastructure">Open Infrastructure</a></li>
+  <li><a href="#open-peer-review" id="toc-open-peer-review" class="nav-link" data-scroll-target="#open-peer-review">Open Peer Review</a></li>
+  <li><a href="#open-science" id="toc-open-science" class="nav-link" data-scroll-target="#open-science">Open Science</a></li>
+  <li><a href="#open-science-communities" id="toc-open-science-communities" class="nav-link" data-scroll-target="#open-science-communities">Open Science Communities</a></li>
+  <li><a href="#open-source" id="toc-open-source" class="nav-link" data-scroll-target="#open-source">Open Source</a></li>
+  <li><a href="#open-education" id="toc-open-education" class="nav-link" data-scroll-target="#open-education">Open education</a></li>
+  <li><a href="#overlay-journal" id="toc-overlay-journal" class="nav-link" data-scroll-target="#overlay-journal">Overlay journal</a></li>
+  <li><a href="#paywall" id="toc-paywall" class="nav-link" data-scroll-target="#paywall">Paywall</a></li>
+  <li><a href="#persistent-identifier" id="toc-persistent-identifier" class="nav-link" data-scroll-target="#persistent-identifier">Persistent identifier</a></li>
+  <li><a href="#predatory-journal" id="toc-predatory-journal" class="nav-link" data-scroll-target="#predatory-journal">Predatory journal</a></li>
+  <li><a href="#preprint" id="toc-preprint" class="nav-link" data-scroll-target="#preprint">Preprint</a></li>
+  <li><a href="#preregistration" id="toc-preregistration" class="nav-link" data-scroll-target="#preregistration">Preregistration</a></li>
+  <li><a href="#publish-or-perish" id="toc-publish-or-perish" class="nav-link" data-scroll-target="#publish-or-perish">Publish or Perish</a></li>
+  <li><a href="#publish-review-curate" id="toc-publish-review-curate" class="nav-link" data-scroll-target="#publish-review-curate">Publish, review, curate</a></li>
+  <li><a href="#recognition-and-rewards" id="toc-recognition-and-rewards" class="nav-link" data-scroll-target="#recognition-and-rewards">Recognition and rewards</a></li>
+  <li><a href="#registered-report" id="toc-registered-report" class="nav-link" data-scroll-target="#registered-report">Registered report</a></li>
+  <li><a href="#replication" id="toc-replication" class="nav-link" data-scroll-target="#replication">Replication</a></li>
+  <li><a href="#replication-crisis" id="toc-replication-crisis" class="nav-link" data-scroll-target="#replication-crisis">Replication Crisis</a></li>
+  <li><a href="#reproducible" id="toc-reproducible" class="nav-link" data-scroll-target="#reproducible">Reproducible</a></li>
+  <li><a href="#research-cycle" id="toc-research-cycle" class="nav-link" data-scroll-target="#research-cycle">Research Cycle</a></li>
+  <li><a href="#research-software" id="toc-research-software" class="nav-link" data-scroll-target="#research-software">Research Software</a></li>
+  <li><a href="#research-software-engineer" id="toc-research-software-engineer" class="nav-link" data-scroll-target="#research-software-engineer">Research Software Engineer</a></li>
+  <li><a href="#retraction-watch" id="toc-retraction-watch" class="nav-link" data-scroll-target="#retraction-watch">Retraction watch</a></li>
+  <li><a href="#reusable" id="toc-reusable" class="nav-link" data-scroll-target="#reusable">Reusable</a></li>
+  <li><a href="#reviewer-fatigue" id="toc-reviewer-fatigue" class="nav-link" data-scroll-target="#reviewer-fatigue">Reviewer Fatigue</a></li>
+  <li><a href="#rights-retention-strategy" id="toc-rights-retention-strategy" class="nav-link" data-scroll-target="#rights-retention-strategy">Rights Retention Strategy</a></li>
+  <li><a href="#science-communication" id="toc-science-communication" class="nav-link" data-scroll-target="#science-communication">Science Communication</a></li>
+  <li><a href="#self-archiving" id="toc-self-archiving" class="nav-link" data-scroll-target="#self-archiving">Self-archiving</a></li>
+  <li><a href="#societal-impact" id="toc-societal-impact" class="nav-link" data-scroll-target="#societal-impact">Societal impact</a></li>
+  <li><a href="#software-management-plan" id="toc-software-management-plan" class="nav-link" data-scroll-target="#software-management-plan">Software Management Plan</a></li>
+  <li><a href="#software-repository" id="toc-software-repository" class="nav-link" data-scroll-target="#software-repository">Software repository</a></li>
+  <li><a href="#taverne" id="toc-taverne" class="nav-link" data-scroll-target="#taverne">Taverne</a></li>
+  <li><a href="#team-science" id="toc-team-science" class="nav-link" data-scroll-target="#team-science">Team science</a></li>
+  <li><a href="#transparency" id="toc-transparency" class="nav-link" data-scroll-target="#transparency">Transparency</a></li>
+  <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control">Version Control</a></li>
+  <li><a href="#zenodo" id="toc-zenodo" class="nav-link" data-scroll-target="#zenodo">Zenodo</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Technical cards</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<section id="open-séance" class="level1">
-<h1>Open Séance</h1>
-<p><img src="./assets/img/cover.png" class="img-fluid"></p>
-<section id="goal-of-the-game" class="level2">
-<h2 class="anchored" data-anchor-id="goal-of-the-game">Goal of the Game</h2>
-<p>Contact the Open Spirits!</p>
+</header>
+
+
+<section id="accessible" class="level2">
+<h2 class="anchored" data-anchor-id="accessible">Accessible</h2>
+<p><na></na></p>
 </section>
-<section id="acknowledgements" class="level2">
-<h2 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h2>
-<p>This game was created by the <strong>GHOST Collective</strong>, Games of Horror for Open Science Training. GHOST includes:</p>
-<ul>
-<li>Bjørn Bartholdy, TU Delft</li>
-<li>Dafne Jansen, Universiteit Utrecht</li>
-<li>Dan Rudmann, Leiden University</li>
-<li>Elisa Rodenburg, Vrije Universiteit Amsterdam</li>
-<li>Eva Lekkerkerker, University of Amsterdam</li>
-<li>Lena Karvovskaya, Vrije Universiteit Amsterdam</li>
-<li>Lieke de Boer, Netherlands eScience Center</li>
-<li>Meron Vermaas, Vrije Universiteit Amsterdam</li>
-<li>Stefan Kirsch, Tilburg University</li>
-<li>Stephanie van de Sandt, Vrije Universiteit Amsterdam</li>
-<li>Tycho Hofstra, Vrije Universiteit Amsterdam</li>
-</ul>
-
-
+<section id="article-processing-charge" class="level2">
+<h2 class="anchored" data-anchor-id="article-processing-charge">Article Processing Charge</h2>
+<p><a href="https://vu.nl/en/about-vu/divisions/university-library/more-about/gold-open-access-deals-with-publishers" class="uri">https://vu.nl/en/about-vu/divisions/university-library/more-about/gold-open-access-deals-with-publishers</a></p>
 </section>
+<section id="artificial-intelligence" class="level2">
+<h2 class="anchored" data-anchor-id="artificial-intelligence">Artificial Intelligence</h2>
+<p><na></na></p>
+</section>
+<section id="author-accepted-manuscript" class="level2">
+<h2 class="anchored" data-anchor-id="author-accepted-manuscript">Author Accepted Manuscript</h2>
+<p><na></na></p>
+</section>
+<section id="barcelona-declaration" class="level2">
+<h2 class="anchored" data-anchor-id="barcelona-declaration">Barcelona Declaration</h2>
+<p><a href="https://barcelona-declaration.org/" class="uri">https://barcelona-declaration.org/</a></p>
+</section>
+<section id="bibliodiversity" class="level2">
+<h2 class="anchored" data-anchor-id="bibliodiversity">Bibliodiversity</h2>
+<p><na></na></p>
+</section>
+<section id="care" class="level2">
+<h2 class="anchored" data-anchor-id="care">CARE</h2>
+<p><a href="https://doi.org/10.1038/s41597-021-00892-0" class="uri">https://doi.org/10.1038/s41597-021-00892-0</a></p>
+</section>
+<section id="credit" class="level2">
+<h2 class="anchored" data-anchor-id="credit">CRediT</h2>
+<p><a href="https://credit.niso.org/" class="uri">https://credit.niso.org/</a></p>
+</section>
+<section id="cwts-leiden-ranking" class="level2">
+<h2 class="anchored" data-anchor-id="cwts-leiden-ranking">CWTS Leiden Ranking</h2>
+<p><na></na></p>
+</section>
+<section id="citizen-science" class="level2">
+<h2 class="anchored" data-anchor-id="citizen-science">Citizen science</h2>
+<p><a href="https://citizenscience.nl/p/wat-is-citizen-science" class="uri">https://citizenscience.nl/p/wat-is-citizen-science</a></p>
+</section>
+<section id="code-review" class="level2">
+<h2 class="anchored" data-anchor-id="code-review">Code Review</h2>
+<p><na></na></p>
+</section>
+<section id="community-led" class="level2">
+<h2 class="anchored" data-anchor-id="community-led">Community-led</h2>
+<p><a href="https://doi.org/10.53962/k06w-2ket" class="uri">https://doi.org/10.53962/k06w-2ket</a></p>
+</section>
+<section id="copyright" class="level2">
+<h2 class="anchored" data-anchor-id="copyright">Copyright</h2>
+<p>&lt;NAhttps://uba.uva.nl/en/support/copyright/researchers/researchers.html&gt;</p>
+</section>
+<section id="data-management-plan" class="level2">
+<h2 class="anchored" data-anchor-id="data-management-plan">Data Management Plan</h2>
+<p><a href="https://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans" class="uri">https://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans</a></p>
+</section>
+<section id="data-steward" class="level2">
+<h2 class="anchored" data-anchor-id="data-steward">Data Steward</h2>
+<p><a href="https://openworking.wordpress.com/2024/08/27/from-researcher-to-data-steward-how-to-get-started/" class="uri">https://openworking.wordpress.com/2024/08/27/from-researcher-to-data-steward-how-to-get-started/</a></p>
+</section>
+<section id="digital-competence-centre" class="level2">
+<h2 class="anchored" data-anchor-id="digital-competence-centre">Digital Competence Centre</h2>
+<p><a href="https://www.surf.nl/en/magazine/digital-competence-centres-let-institutions-collaborate-more-intensively" class="uri">https://www.surf.nl/en/magazine/digital-competence-centres-let-institutions-collaborate-more-intensively</a></p>
+</section>
+<section id="embargo-period" class="level2">
+<h2 class="anchored" data-anchor-id="embargo-period">Embargo period</h2>
+<p><na></na></p>
+</section>
+<section id="ethical-review-board" class="level2">
+<h2 class="anchored" data-anchor-id="ethical-review-board">Ethical Review Board</h2>
+<p><a href="https://en.wikipedia.org/wiki/Institutional_review_board" class="uri">https://en.wikipedia.org/wiki/Institutional_review_board</a></p>
+</section>
+<section id="fair" class="level2">
+<h2 class="anchored" data-anchor-id="fair">FAIR</h2>
+<p><a href="https://www.go-fair.org/fair-principles/" class="uri">https://www.go-fair.org/fair-principles/</a></p>
+</section>
+<section id="findable" class="level2">
+<h2 class="anchored" data-anchor-id="findable">Findable</h2>
+<p><na></na></p>
+</section>
+<section id="funder-requirements" class="level2">
+<h2 class="anchored" data-anchor-id="funder-requirements">Funder requirements</h2>
+<p><na></na></p>
+</section>
+<section id="gdpr" class="level2">
+<h2 class="anchored" data-anchor-id="gdpr">GDPR</h2>
+<p><na></na></p>
+</section>
+<section id="impact-factor" class="level2">
+<h2 class="anchored" data-anchor-id="impact-factor">Impact factor</h2>
+<p><na></na></p>
+</section>
+<section id="institutional-repository" class="level2">
+<h2 class="anchored" data-anchor-id="institutional-repository">Institutional repository</h2>
+<p><na></na></p>
+</section>
+<section id="interoperable" class="level2">
+<h2 class="anchored" data-anchor-id="interoperable">Interoperable</h2>
+<p><na></na></p>
+</section>
+<section id="linked-data" class="level2">
+<h2 class="anchored" data-anchor-id="linked-data">Linked Data</h2>
+<p><na></na></p>
+</section>
+<section id="metadata" class="level2">
+<h2 class="anchored" data-anchor-id="metadata">Metadata</h2>
+<p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/collect-and-document" class="uri">https://www.tudelft.nl/en/library/research-data-management/r/manage/collect-and-document</a></p>
+</section>
+<section id="non-exclusive-license" class="level2">
+<h2 class="anchored" data-anchor-id="non-exclusive-license">Non-exclusive license</h2>
+<p><na></na></p>
+</section>
+<section id="open-access" class="level2">
+<h2 class="anchored" data-anchor-id="open-access">Open Access</h2>
+<p><na></na></p>
+</section>
+<section id="open-infrastructure" class="level2">
+<h2 class="anchored" data-anchor-id="open-infrastructure">Open Infrastructure</h2>
+<p><na></na></p>
+</section>
+<section id="open-peer-review" class="level2">
+<h2 class="anchored" data-anchor-id="open-peer-review">Open Peer Review</h2>
+<p><na></na></p>
+</section>
+<section id="open-science" class="level2">
+<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
+<p><na></na></p>
+</section>
+<section id="open-science-communities" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-communities">Open Science Communities</h2>
+<p><na></na></p>
+</section>
+<section id="open-source" class="level2">
+<h2 class="anchored" data-anchor-id="open-source">Open Source</h2>
+<p><na></na></p>
+</section>
+<section id="open-education" class="level2">
+<h2 class="anchored" data-anchor-id="open-education">Open education</h2>
+<p><na></na></p>
+</section>
+<section id="overlay-journal" class="level2">
+<h2 class="anchored" data-anchor-id="overlay-journal">Overlay journal</h2>
+<p><na></na></p>
+</section>
+<section id="paywall" class="level2">
+<h2 class="anchored" data-anchor-id="paywall">Paywall</h2>
+<p><a href="https://archive.org/details/PaywallTheBusinessOfScholarshipFinalMovieMastered" class="uri">https://archive.org/details/PaywallTheBusinessOfScholarshipFinalMovieMastered</a></p>
+</section>
+<section id="persistent-identifier" class="level2">
+<h2 class="anchored" data-anchor-id="persistent-identifier">Persistent identifier</h2>
+<p><na></na></p>
+</section>
+<section id="predatory-journal" class="level2">
+<h2 class="anchored" data-anchor-id="predatory-journal">Predatory journal</h2>
+<p><a href="https://www.predatoryjournals.org/" class="uri">https://www.predatoryjournals.org/</a></p>
+</section>
+<section id="preprint" class="level2">
+<h2 class="anchored" data-anchor-id="preprint">Preprint</h2>
+<p><a href="https://doi.org/10.5281/zenodo.5600535" class="uri">https://doi.org/10.5281/zenodo.5600535</a></p>
+</section>
+<section id="preregistration" class="level2">
+<h2 class="anchored" data-anchor-id="preregistration">Preregistration</h2>
+<p><a href="https://www.cos.io/initiatives/prereg" class="uri">https://www.cos.io/initiatives/prereg</a></p>
+</section>
+<section id="publish-or-perish" class="level2">
+<h2 class="anchored" data-anchor-id="publish-or-perish">Publish or Perish</h2>
+<p><a href="https://en.wikipedia.org/wiki/Publish_or_perish" class="uri">https://en.wikipedia.org/wiki/Publish_or_perish</a></p>
+</section>
+<section id="publish-review-curate" class="level2">
+<h2 class="anchored" data-anchor-id="publish-review-curate">Publish, review, curate</h2>
+<p><a href="https://www.coalition-s.org/blog/peer-reviewed-preprints-and-the-publish-review-curate-model/" class="uri">https://www.coalition-s.org/blog/peer-reviewed-preprints-and-the-publish-review-curate-model/</a></p>
+</section>
+<section id="recognition-and-rewards" class="level2">
+<h2 class="anchored" data-anchor-id="recognition-and-rewards">Recognition and rewards</h2>
+<p><a href="https://recognitionrewards.nl/" class="uri">https://recognitionrewards.nl/</a></p>
+</section>
+<section id="registered-report" class="level2">
+<h2 class="anchored" data-anchor-id="registered-report">Registered report</h2>
+<p><a href="https://www.cos.io/initiatives/registered-reports" class="uri">https://www.cos.io/initiatives/registered-reports</a></p>
+</section>
+<section id="replication" class="level2">
+<h2 class="anchored" data-anchor-id="replication">Replication</h2>
+<p><na></na></p>
+</section>
+<section id="replication-crisis" class="level2">
+<h2 class="anchored" data-anchor-id="replication-crisis">Replication Crisis</h2>
+<p><a href="https://en.wikipedia.org/wiki/Replication_crisis" class="uri">https://en.wikipedia.org/wiki/Replication_crisis</a></p>
+</section>
+<section id="reproducible" class="level2">
+<h2 class="anchored" data-anchor-id="reproducible">Reproducible</h2>
+<p><na></na></p>
+</section>
+<section id="research-cycle" class="level2">
+<h2 class="anchored" data-anchor-id="research-cycle">Research Cycle</h2>
+<p><na></na></p>
+</section>
+<section id="research-software" class="level2">
+<h2 class="anchored" data-anchor-id="research-software">Research Software</h2>
+<p><na></na></p>
+</section>
+<section id="research-software-engineer" class="level2">
+<h2 class="anchored" data-anchor-id="research-software-engineer">Research Software Engineer</h2>
+<p><a href="https://doi.org/10.5281/zenodo.7994286" class="uri">https://doi.org/10.5281/zenodo.7994286</a></p>
+</section>
+<section id="retraction-watch" class="level2">
+<h2 class="anchored" data-anchor-id="retraction-watch">Retraction watch</h2>
+<p><a href="https://retractionwatch.com/" class="uri">https://retractionwatch.com/</a></p>
+</section>
+<section id="reusable" class="level2">
+<h2 class="anchored" data-anchor-id="reusable">Reusable</h2>
+<p><na></na></p>
+</section>
+<section id="reviewer-fatigue" class="level2">
+<h2 class="anchored" data-anchor-id="reviewer-fatigue">Reviewer Fatigue</h2>
+<p><a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reviewer-fatigue-why-scholars-decline-to-review-their-peers-work/762AE347CF96E6FD20DB64B1C0D48C25" class="uri">https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reviewer-fatigue-why-scholars-decline-to-review-their-peers-work/762AE347CF96E6FD20DB64B1C0D48C25</a></p>
+</section>
+<section id="rights-retention-strategy" class="level2">
+<h2 class="anchored" data-anchor-id="rights-retention-strategy">Rights Retention Strategy</h2>
+<p><a href="https://vu.nl/en/about-vu/divisions/university-library/more-about/rights-retention-strategy" class="uri">https://vu.nl/en/about-vu/divisions/university-library/more-about/rights-retention-strategy</a></p>
+</section>
+<section id="science-communication" class="level2">
+<h2 class="anchored" data-anchor-id="science-communication">Science Communication</h2>
+<p><na></na></p>
+</section>
+<section id="self-archiving" class="level2">
+<h2 class="anchored" data-anchor-id="self-archiving">Self-archiving</h2>
+<p><na></na></p>
+</section>
+<section id="societal-impact" class="level2">
+<h2 class="anchored" data-anchor-id="societal-impact">Societal impact</h2>
+<p><na></na></p>
+</section>
+<section id="software-management-plan" class="level2">
+<h2 class="anchored" data-anchor-id="software-management-plan">Software Management Plan</h2>
+<p><a href="https://zenodo.org/records/7589725" class="uri">https://zenodo.org/records/7589725</a></p>
+</section>
+<section id="software-repository" class="level2">
+<h2 class="anchored" data-anchor-id="software-repository">Software repository</h2>
+<p><na></na></p>
+</section>
+<section id="taverne" class="level2">
+<h2 class="anchored" data-anchor-id="taverne">Taverne</h2>
+<p><a href="https://library.maastrichtuniversity.nl/research/publishing/information/sharing-research-outputs/taverne/" class="uri">https://library.maastrichtuniversity.nl/research/publishing/information/sharing-research-outputs/taverne/</a></p>
+</section>
+<section id="team-science" class="level2">
+<h2 class="anchored" data-anchor-id="team-science">Team science</h2>
+<p><a href="https://doi.org/10.36850/mr8" class="uri">https://doi.org/10.36850/mr8</a></p>
+</section>
+<section id="transparency" class="level2">
+<h2 class="anchored" data-anchor-id="transparency">Transparency</h2>
+<p><na></na></p>
+</section>
+<section id="version-control" class="level2">
+<h2 class="anchored" data-anchor-id="version-control">Version Control</h2>
+<p><na></na></p>
+</section>
+<section id="zenodo" class="level2">
+<h2 class="anchored" data-anchor-id="zenodo">Zenodo</h2>
+<p><a href="https://zenodo.org/" class="uri">https://zenodo.org/</a></p>
+
+
 </section>
 
 </main> <!-- /main -->

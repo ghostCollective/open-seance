@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Open Séance</title>
+<title>Experience cards – Open Séance</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -254,7 +254,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -300,47 +300,358 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#open-séance" id="toc-open-séance" class="nav-link active" data-scroll-target="#open-séance">Open Séance</a>
-  <ul class="collapse">
-  <li><a href="#goal-of-the-game" id="toc-goal-of-the-game" class="nav-link" data-scroll-target="#goal-of-the-game">Goal of the Game</a></li>
-  <li><a href="#acknowledgements" id="toc-acknowledgements" class="nav-link" data-scroll-target="#acknowledgements">Acknowledgements</a></li>
-  </ul></li>
+  <li><a href="#spaghetti-code" id="toc-spaghetti-code" class="nav-link active" data-scroll-target="#spaghetti-code">Spaghetti code</a></li>
+  <li><a href="#science-done-wrong" id="toc-science-done-wrong" class="nav-link" data-scroll-target="#science-done-wrong">Science done wrong</a></li>
+  <li><a href="#flawless-replication" id="toc-flawless-replication" class="nav-link" data-scroll-target="#flawless-replication">Flawless replication</a></li>
+  <li><a href="#coding-with-my-crush" id="toc-coding-with-my-crush" class="nav-link" data-scroll-target="#coding-with-my-crush">Coding with my crush</a></li>
+  <li><a href="#a-standout-researcher-with-200-retractions" id="toc-a-standout-researcher-with-200-retractions" class="nav-link" data-scroll-target="#a-standout-researcher-with-200-retractions">A standout researcher with 200+ retractions</a></li>
+  <li><a href="#x10k-stars-on-git-hub" id="toc-x10k-stars-on-git-hub" class="nav-link" data-scroll-target="#x10k-stars-on-git-hub">10k stars on GitHub</a></li>
+  <li><a href="#second-author" id="toc-second-author" class="nav-link" data-scroll-target="#second-author">Second author</a></li>
+  <li><a href="#retraction-watch-leaderboard" id="toc-retraction-watch-leaderboard" class="nav-link" data-scroll-target="#retraction-watch-leaderboard">Retraction watch leaderboard</a></li>
+  <li><a href="#science-done-right" id="toc-science-done-right" class="nav-link" data-scroll-target="#science-done-right">Science done right</a></li>
+  <li><a href="#data-privacy-audits" id="toc-data-privacy-audits" class="nav-link" data-scroll-target="#data-privacy-audits">Data privacy audits</a></li>
+  <li><a href="#ph-d-level-ai" id="toc-ph-d-level-ai" class="nav-link" data-scroll-target="#ph-d-level-ai">PhD-level AI</a></li>
+  <li><a href="#citeable-code" id="toc-citeable-code" class="nav-link" data-scroll-target="#citeable-code">Citeable code</a></li>
+  <li><a href="#restrictive-university-guidelines" id="toc-restrictive-university-guidelines" class="nav-link" data-scroll-target="#restrictive-university-guidelines">Restrictive university guidelines</a></li>
+  <li><a href="#copyright-conundrums" id="toc-copyright-conundrums" class="nav-link" data-scroll-target="#copyright-conundrums">Copyright conundrums</a></li>
+  <li><a href="#eu-wide-bans" id="toc-eu-wide-bans" class="nav-link" data-scroll-target="#eu-wide-bans">EU-wide bans</a></li>
+  <li><a href="#shadow-it" id="toc-shadow-it" class="nav-link" data-scroll-target="#shadow-it">Shadow IT</a></li>
+  <li><a href="#failing-ethically" id="toc-failing-ethically" class="nav-link" data-scroll-target="#failing-ethically">Failing ethically</a></li>
+  <li><a href="#x0-hour-contracts" id="toc-x0-hour-contracts" class="nav-link" data-scroll-target="#x0-hour-contracts">0 hour contracts</a></li>
+  <li><a href="#open-science-games" id="toc-open-science-games" class="nav-link" data-scroll-target="#open-science-games">Open Science Games</a></li>
+  <li><a href="#amateur-scientists" id="toc-amateur-scientists" class="nav-link" data-scroll-target="#amateur-scientists">Amateur scientists</a></li>
+  <li><a href="#open-science-badges" id="toc-open-science-badges" class="nav-link" data-scroll-target="#open-science-badges">Open Science badges</a></li>
+  <li><a href="#supplementary-materials" id="toc-supplementary-materials" class="nav-link" data-scroll-target="#supplementary-materials">Supplementary materials</a></li>
+  <li><a href="#interoperable-caffeine-pills" id="toc-interoperable-caffeine-pills" class="nav-link" data-scroll-target="#interoperable-caffeine-pills">Interoperable caffeine pills</a></li>
+  <li><a href="#sensitive-data-on-shady-cloud-services" id="toc-sensitive-data-on-shady-cloud-services" class="nav-link" data-scroll-target="#sensitive-data-on-shady-cloud-services">Sensitive data on shady cloud services</a></li>
+  <li><a href="#p-hacking" id="toc-p-hacking" class="nav-link" data-scroll-target="#p-hacking">P-hacking</a></li>
+  <li><a href="#coding-cafe" id="toc-coding-cafe" class="nav-link" data-scroll-target="#coding-cafe">Coding Café</a></li>
+  <li><a href="#publishing-null-results" id="toc-publishing-null-results" class="nav-link" data-scroll-target="#publishing-null-results">Publishing null results</a></li>
+  <li><a href="#installation-instructions" id="toc-installation-instructions" class="nav-link" data-scroll-target="#installation-instructions">Installation instructions</a></li>
+  <li><a href="#paywalled-journals" id="toc-paywalled-journals" class="nav-link" data-scroll-target="#paywalled-journals">Paywalled journals</a></li>
+  <li><a href="#publishing-raw-data" id="toc-publishing-raw-data" class="nav-link" data-scroll-target="#publishing-raw-data">Publishing raw data</a></li>
+  <li><a href="#data-as-the-most-important-research-output" id="toc-data-as-the-most-important-research-output" class="nav-link" data-scroll-target="#data-as-the-most-important-research-output">Data as the most important research output</a></li>
+  <li><a href="#apc-waiver" id="toc-apc-waiver" class="nav-link" data-scroll-target="#apc-waiver">APC waiver</a></li>
+  <li><a href="#open-but-broke" id="toc-open-but-broke" class="nav-link" data-scroll-target="#open-but-broke">Open, but broke</a></li>
+  <li><a href="#buy-this-article" id="toc-buy-this-article" class="nav-link" data-scroll-target="#buy-this-article">Buy this article</a></li>
+  <li><a href="#gatekeeping" id="toc-gatekeeping" class="nav-link" data-scroll-target="#gatekeeping">Gatekeeping</a></li>
+  <li><a href="#dear-esteemed-professor-respected-researcher-dr" id="toc-dear-esteemed-professor-respected-researcher-dr" class="nav-link" data-scroll-target="#dear-esteemed-professor-respected-researcher-dr">Dear Esteemed Professor/Respected Researcher/Dr.&nbsp;…</a></li>
+  <li><a href="#tutorials-developed-by-the-community" id="toc-tutorials-developed-by-the-community" class="nav-link" data-scroll-target="#tutorials-developed-by-the-community">Tutorials developed by the community</a></li>
+  <li><a href="#journal-flipping" id="toc-journal-flipping" class="nav-link" data-scroll-target="#journal-flipping">Journal flipping</a></li>
+  <li><a href="#profit-over-science" id="toc-profit-over-science" class="nav-link" data-scroll-target="#profit-over-science">Profit over science</a></li>
+  <li><a href="#diamond-open-access-is-my-hobby" id="toc-diamond-open-access-is-my-hobby" class="nav-link" data-scroll-target="#diamond-open-access-is-my-hobby">Diamond Open Access is my hobby</a></li>
+  <li><a href="#citation-gap" id="toc-citation-gap" class="nav-link" data-scroll-target="#citation-gap">Citation gap</a></li>
+  <li><a href="#publisher-prestige" id="toc-publisher-prestige" class="nav-link" data-scroll-target="#publisher-prestige">Publisher prestige</a></li>
+  <li><a href="#supervisor-ghosting" id="toc-supervisor-ghosting" class="nav-link" data-scroll-target="#supervisor-ghosting">Supervisor ghosting</a></li>
+  <li><a href="#code-version-history" id="toc-code-version-history" class="nav-link" data-scroll-target="#code-version-history">Code version history</a></li>
+  <li><a href="#lost-in-translation" id="toc-lost-in-translation" class="nav-link" data-scroll-target="#lost-in-translation">Lost in translation</a></li>
+  <li><a href="#its-the-incentives-stupid" id="toc-its-the-incentives-stupid" class="nav-link" data-scroll-target="#its-the-incentives-stupid">‘It’s the incentives, stupid’</a></li>
+  <li><a href="#final-rev18-v2-without-comments-pdf" id="toc-final-rev18-v2-without-comments-pdf" class="nav-link" data-scroll-target="#final-rev18-v2-without-comments-pdf">final_rev18_v2_withoutComments.pdf</a></li>
+  <li><a href="#code-that-only-works-on-my-computer" id="toc-code-that-only-works-on-my-computer" class="nav-link" data-scroll-target="#code-that-only-works-on-my-computer">Code that only works on my computer</a></li>
+  <li><a href="#a-variable-named-temp" id="toc-a-variable-named-temp" class="nav-link" data-scroll-target="#a-variable-named-temp">A variable named ‘temp’</a></li>
+  <li><a href="#european-ai" id="toc-european-ai" class="nav-link" data-scroll-target="#european-ai">European AI</a></li>
+  <li><a href="#yelling-at-chat-gpt" id="toc-yelling-at-chat-gpt" class="nav-link" data-scroll-target="#yelling-at-chat-gpt">Yelling at ChatGPT</a></li>
+  <li><a href="#legal-hot-water" id="toc-legal-hot-water" class="nav-link" data-scroll-target="#legal-hot-water">Legal hot water</a></li>
+  <li><a href="#ai-hallucinating-references" id="toc-ai-hallucinating-references" class="nav-link" data-scroll-target="#ai-hallucinating-references">AI hallucinating references</a></li>
+  <li><a href="#power-analysis" id="toc-power-analysis" class="nav-link" data-scroll-target="#power-analysis">Power analysis</a></li>
+  <li><a href="#impostor-syndrome" id="toc-impostor-syndrome" class="nav-link" data-scroll-target="#impostor-syndrome">Impostor Syndrome</a></li>
+  <li><a href="#expensive-proprietary-software" id="toc-expensive-proprietary-software" class="nav-link" data-scroll-target="#expensive-proprietary-software">Expensive proprietary software</a></li>
+  <li><a href="#asking-volunteers-to-count-birds" id="toc-asking-volunteers-to-count-birds" class="nav-link" data-scroll-target="#asking-volunteers-to-count-birds">Asking volunteers to count birds</a></li>
+  <li><a href="#verifiable-results" id="toc-verifiable-results" class="nav-link" data-scroll-target="#verifiable-results">Verifiable results</a></li>
+  <li><a href="#sloppy-peer-review" id="toc-sloppy-peer-review" class="nav-link" data-scroll-target="#sloppy-peer-review">Sloppy peer-review</a></li>
+  <li><a href="#a-crashed-hard-drive" id="toc-a-crashed-hard-drive" class="nav-link" data-scroll-target="#a-crashed-hard-drive">A crashed hard drive</a></li>
+  <li><a href="#cherry-picking-results" id="toc-cherry-picking-results" class="nav-link" data-scroll-target="#cherry-picking-results">Cherry-picking results</a></li>
+  <li><a href="#public-wi-fi" id="toc-public-wi-fi" class="nav-link" data-scroll-target="#public-wi-fi">Public WiFi</a></li>
+  <li><a href="#citing-wikipedia" id="toc-citing-wikipedia" class="nav-link" data-scroll-target="#citing-wikipedia">Citing Wikipedia</a></li>
+  <li><a href="#pseudoscience-influencers" id="toc-pseudoscience-influencers" class="nav-link" data-scroll-target="#pseudoscience-influencers">Pseudoscience influencers</a></li>
+  <li><a href="#my-supervisor-said-so" id="toc-my-supervisor-said-so" class="nav-link" data-scroll-target="#my-supervisor-said-so">My supervisor said so</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Experience cards</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<section id="open-séance" class="level1">
-<h1>Open Séance</h1>
-<p><img src="./assets/img/cover.png" class="img-fluid"></p>
-<section id="goal-of-the-game" class="level2">
-<h2 class="anchored" data-anchor-id="goal-of-the-game">Goal of the Game</h2>
-<p>Contact the Open Spirits!</p>
+</header>
+
+
+<section id="spaghetti-code" class="level2">
+<h2 class="anchored" data-anchor-id="spaghetti-code">Spaghetti code</h2>
+<p><a href="https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0" class="uri">https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0</a></p>
 </section>
-<section id="acknowledgements" class="level2">
-<h2 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h2>
-<p>This game was created by the <strong>GHOST Collective</strong>, Games of Horror for Open Science Training. GHOST includes:</p>
-<ul>
-<li>Bjørn Bartholdy, TU Delft</li>
-<li>Dafne Jansen, Universiteit Utrecht</li>
-<li>Dan Rudmann, Leiden University</li>
-<li>Elisa Rodenburg, Vrije Universiteit Amsterdam</li>
-<li>Eva Lekkerkerker, University of Amsterdam</li>
-<li>Lena Karvovskaya, Vrije Universiteit Amsterdam</li>
-<li>Lieke de Boer, Netherlands eScience Center</li>
-<li>Meron Vermaas, Vrije Universiteit Amsterdam</li>
-<li>Stefan Kirsch, Tilburg University</li>
-<li>Stephanie van de Sandt, Vrije Universiteit Amsterdam</li>
-<li>Tycho Hofstra, Vrije Universiteit Amsterdam</li>
-</ul>
-
-
+<section id="science-done-wrong" class="level2">
+<h2 class="anchored" data-anchor-id="science-done-wrong">Science done wrong</h2>
+<p><a href="https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers" class="uri">https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers</a></p>
 </section>
+<section id="flawless-replication" class="level2">
+<h2 class="anchored" data-anchor-id="flawless-replication">Flawless replication</h2>
+<p><a href="https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html" class="uri">https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html</a></p>
+</section>
+<section id="coding-with-my-crush" class="level2">
+<h2 class="anchored" data-anchor-id="coding-with-my-crush">Coding with my crush</h2>
+<p><na></na></p>
+</section>
+<section id="a-standout-researcher-with-200-retractions" class="level2">
+<h2 class="anchored" data-anchor-id="a-standout-researcher-with-200-retractions">A standout researcher with 200+ retractions</h2>
+<p><a href="https://retractionwatch.com/category/joachim-boldt-retractions/" class="uri">https://retractionwatch.com/category/joachim-boldt-retractions/</a></p>
+</section>
+<section id="x10k-stars-on-git-hub" class="level2">
+<h2 class="anchored" data-anchor-id="x10k-stars-on-git-hub">10k stars on GitHub</h2>
+<p><a href="https://book.the-turing-way.org/collaboration/github-novice/github-novice-features/#using-github-features-to-foster-collaboration" class="uri">https://book.the-turing-way.org/collaboration/github-novice/github-novice-features/#using-github-features-to-foster-collaboration</a></p>
+</section>
+<section id="second-author" class="level2">
+<h2 class="anchored" data-anchor-id="second-author">Second author</h2>
+<p><na></na></p>
+</section>
+<section id="retraction-watch-leaderboard" class="level2">
+<h2 class="anchored" data-anchor-id="retraction-watch-leaderboard">Retraction watch leaderboard</h2>
+<p><a href="https://retractionwatch.com/the-retraction-watch-leaderboard/" class="uri">https://retractionwatch.com/the-retraction-watch-leaderboard/</a></p>
+</section>
+<section id="science-done-right" class="level2">
+<h2 class="anchored" data-anchor-id="science-done-right">Science done right</h2>
+<p><na></na></p>
+</section>
+<section id="data-privacy-audits" class="level2">
+<h2 class="anchored" data-anchor-id="data-privacy-audits">Data privacy audits</h2>
+<p><na></na></p>
+</section>
+<section id="ph-d-level-ai" class="level2">
+<h2 class="anchored" data-anchor-id="ph-d-level-ai">PhD-level AI</h2>
+<p><a href="https://www.oneusefulthing.org/p/what-just-happened" class="uri">https://www.oneusefulthing.org/p/what-just-happened</a></p>
+</section>
+<section id="citeable-code" class="level2">
+<h2 class="anchored" data-anchor-id="citeable-code">Citeable code</h2>
+<p><a href="https://www.esciencecenter.nl/news/code-citation-was-made-possible-by-research-software-engineers-in-germany-and-the-netherlands/" class="uri">https://www.esciencecenter.nl/news/code-citation-was-made-possible-by-research-software-engineers-in-germany-and-the-netherlands/</a></p>
+</section>
+<section id="restrictive-university-guidelines" class="level2">
+<h2 class="anchored" data-anchor-id="restrictive-university-guidelines">Restrictive university guidelines</h2>
+<p><na></na></p>
+</section>
+<section id="copyright-conundrums" class="level2">
+<h2 class="anchored" data-anchor-id="copyright-conundrums">Copyright conundrums</h2>
+<p><na></na></p>
+</section>
+<section id="eu-wide-bans" class="level2">
+<h2 class="anchored" data-anchor-id="eu-wide-bans">EU-wide bans</h2>
+<p><na></na></p>
+</section>
+<section id="shadow-it" class="level2">
+<h2 class="anchored" data-anchor-id="shadow-it">Shadow IT</h2>
+<p><na></na></p>
+</section>
+<section id="failing-ethically" class="level2">
+<h2 class="anchored" data-anchor-id="failing-ethically">Failing ethically</h2>
+<p><na></na></p>
+</section>
+<section id="x0-hour-contracts" class="level2">
+<h2 class="anchored" data-anchor-id="x0-hour-contracts">0 hour contracts</h2>
+<p><na></na></p>
+</section>
+<section id="open-science-games" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-games">Open Science Games</h2>
+<p><a href="https://ghostcollective.github.io/games.html" class="uri">https://ghostcollective.github.io/games.html</a></p>
+</section>
+<section id="amateur-scientists" class="level2">
+<h2 class="anchored" data-anchor-id="amateur-scientists">Amateur scientists</h2>
+<p><na></na></p>
+</section>
+<section id="open-science-badges" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-badges">Open Science badges</h2>
+<p><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456" class="uri">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456</a></p>
+</section>
+<section id="supplementary-materials" class="level2">
+<h2 class="anchored" data-anchor-id="supplementary-materials">Supplementary materials</h2>
+<p><na></na></p>
+</section>
+<section id="interoperable-caffeine-pills" class="level2">
+<h2 class="anchored" data-anchor-id="interoperable-caffeine-pills">Interoperable caffeine pills</h2>
+<p><na></na></p>
+</section>
+<section id="sensitive-data-on-shady-cloud-services" class="level2">
+<h2 class="anchored" data-anchor-id="sensitive-data-on-shady-cloud-services">Sensitive data on shady cloud services</h2>
+<p><na></na></p>
+</section>
+<section id="p-hacking" class="level2">
+<h2 class="anchored" data-anchor-id="p-hacking">P-hacking</h2>
+<p><na></na></p>
+</section>
+<section id="coding-cafe" class="level2">
+<h2 class="anchored" data-anchor-id="coding-cafe">Coding Café</h2>
+<p><a href="https://code-cafes-nl.github.io/cafe_playbook/" class="uri">https://code-cafes-nl.github.io/cafe_playbook/</a></p>
+</section>
+<section id="publishing-null-results" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-null-results">Publishing null results</h2>
+<p><a href="https://blog.ssrn.com/2023/10/26/being-positive-about-the-negative" class="uri">https://blog.ssrn.com/2023/10/26/being-positive-about-the-negative</a></p>
+</section>
+<section id="installation-instructions" class="level2">
+<h2 class="anchored" data-anchor-id="installation-instructions">Installation instructions</h2>
+<p><a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a></p>
+</section>
+<section id="paywalled-journals" class="level2">
+<h2 class="anchored" data-anchor-id="paywalled-journals">Paywalled journals</h2>
+<p><na></na></p>
+</section>
+<section id="publishing-raw-data" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-raw-data">Publishing raw data</h2>
+<p><na></na></p>
+</section>
+<section id="data-as-the-most-important-research-output" class="level2">
+<h2 class="anchored" data-anchor-id="data-as-the-most-important-research-output">Data as the most important research output</h2>
+<p><na></na></p>
+</section>
+<section id="apc-waiver" class="level2">
+<h2 class="anchored" data-anchor-id="apc-waiver">APC waiver</h2>
+<p><na></na></p>
+</section>
+<section id="open-but-broke" class="level2">
+<h2 class="anchored" data-anchor-id="open-but-broke">Open, but broke</h2>
+<p><na></na></p>
+</section>
+<section id="buy-this-article" class="level2">
+<h2 class="anchored" data-anchor-id="buy-this-article">Buy this article</h2>
+<p><na></na></p>
+</section>
+<section id="gatekeeping" class="level2">
+<h2 class="anchored" data-anchor-id="gatekeeping">Gatekeeping</h2>
+<p><na></na></p>
+</section>
+<section id="dear-esteemed-professor-respected-researcher-dr" class="level2">
+<h2 class="anchored" data-anchor-id="dear-esteemed-professor-respected-researcher-dr">Dear Esteemed Professor/Respected Researcher/Dr.&nbsp;…</h2>
+<p><na></na></p>
+</section>
+<section id="tutorials-developed-by-the-community" class="level2">
+<h2 class="anchored" data-anchor-id="tutorials-developed-by-the-community">Tutorials developed by the community</h2>
+<p><a href="https://book.the-turing-way.org/" class="uri">https://book.the-turing-way.org/</a></p>
+</section>
+<section id="journal-flipping" class="level2">
+<h2 class="anchored" data-anchor-id="journal-flipping">Journal flipping</h2>
+<p><na></na></p>
+</section>
+<section id="profit-over-science" class="level2">
+<h2 class="anchored" data-anchor-id="profit-over-science">Profit over science</h2>
+<p><na></na></p>
+</section>
+<section id="diamond-open-access-is-my-hobby" class="level2">
+<h2 class="anchored" data-anchor-id="diamond-open-access-is-my-hobby">Diamond Open Access is my hobby</h2>
+<p><na></na></p>
+</section>
+<section id="citation-gap" class="level2">
+<h2 class="anchored" data-anchor-id="citation-gap">Citation gap</h2>
+<p><na></na></p>
+</section>
+<section id="publisher-prestige" class="level2">
+<h2 class="anchored" data-anchor-id="publisher-prestige">Publisher prestige</h2>
+<p><na></na></p>
+</section>
+<section id="supervisor-ghosting" class="level2">
+<h2 class="anchored" data-anchor-id="supervisor-ghosting">Supervisor ghosting</h2>
+<p><na></na></p>
+</section>
+<section id="code-version-history" class="level2">
+<h2 class="anchored" data-anchor-id="code-version-history">Code version history</h2>
+<p><a href="https://book.the-turing-way.org/reproducible-research/vcs/" class="uri">https://book.the-turing-way.org/reproducible-research/vcs/</a></p>
+</section>
+<section id="lost-in-translation" class="level2">
+<h2 class="anchored" data-anchor-id="lost-in-translation">Lost in translation</h2>
+<p><na></na></p>
+</section>
+<section id="its-the-incentives-stupid" class="level2">
+<h2 class="anchored" data-anchor-id="its-the-incentives-stupid">‘It’s the incentives, stupid’</h2>
+<p><a href="https://doi.org/10.7557/5.7153" class="uri">https://doi.org/10.7557/5.7153</a></p>
+</section>
+<section id="final-rev18-v2-without-comments-pdf" class="level2">
+<h2 class="anchored" data-anchor-id="final-rev18-v2-without-comments-pdf">final_rev18_v2_withoutComments.pdf</h2>
+<p><na></na></p>
+</section>
+<section id="code-that-only-works-on-my-computer" class="level2">
+<h2 class="anchored" data-anchor-id="code-that-only-works-on-my-computer">Code that only works on my computer</h2>
+<p><na></na></p>
+</section>
+<section id="a-variable-named-temp" class="level2">
+<h2 class="anchored" data-anchor-id="a-variable-named-temp">A variable named ‘temp’</h2>
+<p><na></na></p>
+</section>
+<section id="european-ai" class="level2">
+<h2 class="anchored" data-anchor-id="european-ai">European AI</h2>
+<p><na></na></p>
+</section>
+<section id="yelling-at-chat-gpt" class="level2">
+<h2 class="anchored" data-anchor-id="yelling-at-chat-gpt">Yelling at ChatGPT</h2>
+<p><na></na></p>
+</section>
+<section id="legal-hot-water" class="level2">
+<h2 class="anchored" data-anchor-id="legal-hot-water">Legal hot water</h2>
+<p><na></na></p>
+</section>
+<section id="ai-hallucinating-references" class="level2">
+<h2 class="anchored" data-anchor-id="ai-hallucinating-references">AI hallucinating references</h2>
+<p><a href="https://www.youtube.com/watch?v=_zfN9wnPvU0" class="uri">https://www.youtube.com/watch?v=_zfN9wnPvU0</a></p>
+</section>
+<section id="power-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="power-analysis">Power analysis</h2>
+<p><a href="https://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html" class="uri">https://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html</a></p>
+</section>
+<section id="impostor-syndrome" class="level2">
+<h2 class="anchored" data-anchor-id="impostor-syndrome">Impostor Syndrome</h2>
+<p><na></na></p>
+</section>
+<section id="expensive-proprietary-software" class="level2">
+<h2 class="anchored" data-anchor-id="expensive-proprietary-software">Expensive proprietary software</h2>
+<p><na></na></p>
+</section>
+<section id="asking-volunteers-to-count-birds" class="level2">
+<h2 class="anchored" data-anchor-id="asking-volunteers-to-count-birds">Asking volunteers to count birds</h2>
+<p><a href="https://www.huffpost.com/entry/counting-birds-over-a-cen_b_12487152" class="uri">https://www.huffpost.com/entry/counting-birds-over-a-cen_b_12487152</a></p>
+</section>
+<section id="verifiable-results" class="level2">
+<h2 class="anchored" data-anchor-id="verifiable-results">Verifiable results</h2>
+<p><na></na></p>
+</section>
+<section id="sloppy-peer-review" class="level2">
+<h2 class="anchored" data-anchor-id="sloppy-peer-review">Sloppy peer-review</h2>
+<p><na></na></p>
+</section>
+<section id="a-crashed-hard-drive" class="level2">
+<h2 class="anchored" data-anchor-id="a-crashed-hard-drive">A crashed hard drive</h2>
+<p><na></na></p>
+</section>
+<section id="cherry-picking-results" class="level2">
+<h2 class="anchored" data-anchor-id="cherry-picking-results">Cherry-picking results</h2>
+<p><na></na></p>
+</section>
+<section id="public-wi-fi" class="level2">
+<h2 class="anchored" data-anchor-id="public-wi-fi">Public WiFi</h2>
+<p><na></na></p>
+</section>
+<section id="citing-wikipedia" class="level2">
+<h2 class="anchored" data-anchor-id="citing-wikipedia">Citing Wikipedia</h2>
+<p><na></na></p>
+</section>
+<section id="pseudoscience-influencers" class="level2">
+<h2 class="anchored" data-anchor-id="pseudoscience-influencers">Pseudoscience influencers</h2>
+<p><a href="https://www.jmir.org/2024/1/e38786" class="uri">https://www.jmir.org/2024/1/e38786</a></p>
+</section>
+<section id="my-supervisor-said-so" class="level2">
+<h2 class="anchored" data-anchor-id="my-supervisor-said-so">My supervisor said so</h2>
+<p><na></na></p>
+
+
 </section>
 
 </main> <!-- /main -->
