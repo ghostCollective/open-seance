@@ -4,7 +4,7 @@ This repository contains the website, cards, and code to create cards for Open S
 
 ## Goal of the Game
 
-In Open Séance, two teams compete in a game that is all about picking the right Open Spirits to communicate to while avoiding the ones that are bad for you. Each team has one Medium whose task it is to guide their team members through the Séance. Only the Mediums know which of the Open Spirits are FAIR to their team. With that knowledge, it is their task to describe the Open Science concepts that these spirits represent. However, their hints have to be brief, leaving plenty of room for creativity and sharp insights! The team who guesses all their Open Spirits correctly wins this spooky game. But beware of the evil ☠️ Publishgeist!
+In Open Séance, two teams compete in a game that is all about picking the right Open Spirits to communicate to while avoiding the ones that are bad for you. Each team has one Medium whose task it is to guide their team members through the Séance. Only the Mediums know which of the Open Spirits are FAIR to their team. With that knowledge, it is their task to describe the Open Science concepts that these spirits represent. However, their hints have to be brief, leaving plenty of room for creativity and sharp insights! The team who guesses all their Open Spirits correctly wins this spooky game. But beware of the evil ☠️ Publish-Geist!
 
 The Séance can be held in two ways: 
 
