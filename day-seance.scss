@@ -23,10 +23,12 @@ body {
   background-size: contain;
 }
 
-h1, h2, h3 {
-  color: $secondary;
+.navbar-title, h1, h2, h3 {
   font-family: 'Irish Grover', sans-serif;
   font-weight: 400;
+  h2, h2, h3 {
+    color: $secondary;
+  }
 }
 
 footer img {
