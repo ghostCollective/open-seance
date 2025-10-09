@@ -11,8 +11,14 @@ website:
     left:
       - href: index.qmd
         text: "Home"
-      - href: cards.qmd
-        text: "Cards"
+      - text: Cards
+        menu: 
+          - href: technical-cards.qmd
+            text: "Technical cards"
+          - href: experience-cards.qmd
+            text: "Experience cards"
+      #- href: cards.qmd
+        #text: "Cards"
       - href: rules.qmd
         text: "Rules"
     right: 
