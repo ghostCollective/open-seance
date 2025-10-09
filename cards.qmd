@@ -1,22 +1,21 @@
 # Experience cards
-
 ## Spaghetti code {#spaghetti-code}
 <https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0>
 
 ## Science done wrong {#science-done-wrong}
-<NA>
+<https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers>
 
 ## Flawless replication {#flawless-replication}
-<NA>
+<https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html>
 
 ## Coding with my crush {#coding-with-my-crush}
 <NA>
 
-## Diederik Stapel {#diederik-stapel}
-<https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#more-44194>
+## A standout researcher with 200+ retractions {#a-standout-researcher-with-200-retractions}
+<https://retractionwatch.com/category/joachim-boldt-retractions/>
 
 ## 10k stars on GitHub {#x10k-stars-on-git-hub}
-<NA>
+<https://book.the-turing-way.org/collaboration/github-novice/github-novice-features/#using-github-features-to-foster-collaboration>
 
 ## Second author {#second-author}
 <NA>
@@ -31,9 +30,9 @@
 <NA>
 
 ## PhD-level AI {#ph-d-level-ai}
-<NA>
+<https://www.oneusefulthing.org/p/what-just-happened>
 
-## Citing code {#citing-code}
+## Citeable code {#citeable-code}
 <https://www.esciencecenter.nl/news/code-citation-was-made-possible-by-research-software-engineers-in-germany-and-the-netherlands/>
 
 ## Restrictive university guidelines {#restrictive-university-guidelines}
@@ -55,13 +54,13 @@
 <NA>
 
 ## Open Science Games {#open-science-games}
-<NA>
+<https://ghostcollective.github.io/games.html>
 
 ## Amateur scientists {#amateur-scientists}
 <NA>
 
-## Reproducibility badges {#reproducibility-badges}
-<NA>
+## Open Science badges {#open-science-badges}
+<https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456>
 
 ## Supplementary materials {#supplementary-materials}
 <NA>
@@ -69,20 +68,20 @@
 ## Interoperable caffeine pills {#interoperable-caffeine-pills}
 <NA>
 
-## Sensitive data on Dropbox {#sensitive-data-on-dropbox}
+## Sensitive data on shady cloud services {#sensitive-data-on-shady-cloud-services}
 <NA>
 
 ## P-hacking {#p-hacking}
 <NA>
 
-## University Spin-off company {#university-spin-off-company}
-<NA>
+## Coding Café {#coding-cafe}
+<https://code-cafes-nl.github.io/cafe_playbook/>
 
 ## Publishing null results {#publishing-null-results}
-<NA>
+<https://blog.ssrn.com/2023/10/26/being-positive-about-the-negative>
 
 ## Installation instructions {#installation-instructions}
-<NA>
+<https://www.makeareadme.com/>
 
 ## Paywalled journals {#paywalled-journals}
 <NA>
@@ -90,7 +89,7 @@
 ## Publishing raw data {#publishing-raw-data}
 <NA>
 
-## Data papers {#data-papers}
+## Data as the most important research output {#data-as-the-most-important-research-output}
 <NA>
 
 ## APC waiver {#apc-waiver}
@@ -108,8 +107,8 @@
 ## Dear Esteemed Professor/Respected Researcher/Dr. ... {#dear-esteemed-professor-respected-researcher-dr}
 <NA>
 
-## Publish-Review-Curate {#publish-review-curate}
-<NA>
+## Tutorials developed by the community {#tutorials-developed-by-the-community}
+<https://book.the-turing-way.org/>
 
 ## Journal flipping {#journal-flipping}
 <NA>
@@ -117,7 +116,7 @@
 ## Profit over science {#profit-over-science}
 <NA>
 
-## Diamond OA journal is my hobby {#diamond-oa-journal-is-my-hobby}
+## Diamond Open Access is my hobby {#diamond-open-access-is-my-hobby}
 <NA>
 
 ## Citation gap {#citation-gap}
@@ -156,8 +155,8 @@
 ## Legal hot water {#legal-hot-water}
 <NA>
 
-## Uncontrollable AI {#uncontrollable-ai}
-<NA>
+## AI hallucinating references {#ai-hallucinating-references}
+<https://www.youtube.com/watch?v=_zfN9wnPvU0>
 
 ## Power analysis {#power-analysis}
 <https://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html>
@@ -168,8 +167,8 @@
 ## Expensive proprietary software {#expensive-proprietary-software}
 <NA>
 
-## Data on servers abroad {#data-on-servers-abroad}
-<NA>
+## Asking volunteers to count birds {#asking-volunteers-to-count-birds}
+<https://www.huffpost.com/entry/counting-birds-over-a-cen_b_12487152>
 
 ## Verifiable results {#verifiable-results}
 <NA>
@@ -190,13 +189,12 @@
 <NA>
 
 ## Pseudoscience influencers {#pseudoscience-influencers}
-<NA>
+<https://www.jmir.org/2024/1/e38786>
 
 ## My supervisor said so {#my-supervisor-said-so}
 <NA>
 
 # Technical term cards
-
 ## Accessible {#accessible}
 <NA>
 
