@@ -4,7 +4,7 @@
 
 ## Goal of the Game
 
-Contact the Open Spirits!
+{{< include _goal.md >}}
 
 ## Acknowledgements
 
