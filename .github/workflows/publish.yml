@@ -6,6 +6,7 @@ on:
         - '**.qmd'
         - '**.yml'
         - '**.scss'
+        - 'README.md'
   
 name: Quarto Publish
   
