@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ghostCollective.github.io/open-seance/cards.html</loc>
-    <lastmod>2025-10-10T19:12:42.476Z</lastmod>
+    <lastmod>2025-10-10T20:12:58.674Z</lastmod>
   </url>
   <url>
     <loc>https://ghostCollective.github.io/open-seance/technical-cards.html</loc>
-    <lastmod>2025-10-10T19:18:07.105Z</lastmod>
+    <lastmod>2025-10-10T20:12:58.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghostCollective.github.io/open-seance/rules.html</loc>
+    <lastmod>2025-10-10T20:12:58.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghostCollective.github.io/open-seance/index.html</loc>
+    <lastmod>2025-10-10T20:12:33.005Z</lastmod>
   </url>
   <url>
     <loc>https://ghostCollective.github.io/open-seance/extracted_rules.html</loc>
     <lastmod>2025-10-10T19:14:58.488Z</lastmod>
   </url>
   <url>
-    <loc>https://ghostCollective.github.io/open-seance/index.html</loc>
-    <lastmod>2025-10-10T19:05:13.625Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghostCollective.github.io/open-seance/rules.html</loc>
-    <lastmod>2025-10-10T19:12:42.476Z</lastmod>
+    <loc>https://ghostCollective.github.io/open-seance/README.html.html</loc>
+    <lastmod>2025-10-10T19:47:59.954Z</lastmod>
   </url>
   <url>
     <loc>https://ghostCollective.github.io/open-seance/experience-cards.html</loc>
-    <lastmod>2025-10-10T19:18:07.105Z</lastmod>
+    <lastmod>2025-10-10T20:12:58.674Z</lastmod>
   </url>
 </urlset>
