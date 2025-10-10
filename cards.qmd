@@ -155,7 +155,7 @@
 ## Legal hot water {#legal-hot-water}
 <NA>
 
-## AI hallucinating references {#ai-hallucinating-references}
+## LLMs hallucinating references {#ai-hallucinating-references}
 <https://www.youtube.com/watch?v=_zfN9wnPvU0>
 
 ## Power analysis {#power-analysis}
