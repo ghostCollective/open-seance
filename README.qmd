@@ -1,0 +1,35 @@
+---
+format: 
+  gfm: default
+---
+
+# Open Séance 👻✨
+
+This repository contains the website, cards, and code to create cards for Open Séance, an educational game where players have to find creative ways to describe concepts around Open Science. If you are interested in the printed game, please reach out to us (rdm@vu.nl).
+
+## Goal of the Game
+
+{{< include _goal.md >}}
+
+## How to Play
+
+{{< include _rules.md >}}
+
+## Acknowledgements
+
+This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
+
+- Bjørn Bartholdy, TU Delft
+- Dafne Jansen, Universiteit Utrecht
+- Dan Rudmann, Leiden University
+- Elisa Rodenburg, Vrije Universiteit Amsterdam 
+- Eva Lekkerkerker, University of Amsterdam
+- Katreine Blomme, Open University
+- Lena Karvovskaya, Vrije Universiteit Amsterdam
+- Lieke de Boer, Netherlands eScience Center
+- Meron Vermaas, Vrije Universiteit Amsterdam
+- Stefan Kirsch, Tilburg University
+- Stephanie van de Sandt, Vrije Universiteit Amsterdam 
+- Tycho Hofstra, Vrije Universiteit Amsterdam 
+
+Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html) and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0).
