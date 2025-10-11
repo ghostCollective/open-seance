@@ -6,6 +6,8 @@ on:
         - '**.qmd'
         - '**.yml'
         - '**.scss'
+        - '**.png'
+        - '**.svg'
   
 name: Quarto Publish
   
