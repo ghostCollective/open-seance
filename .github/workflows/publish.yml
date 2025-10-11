@@ -6,6 +6,8 @@ on:
         - '**.qmd'
         - '**.yml'
         - '**.scss'
+        - '_rules.md'
+        - '_goal.md'
   
 name: Quarto Publish
   
