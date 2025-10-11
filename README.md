@@ -15,13 +15,15 @@ In Open Séance, two teams compete in a game that is all about picking the right
 
 ⏰ 15-30 minutes
 
+### Setting things up
+
 Before starting, divide the circle of players into two teams, with each team having at least two members. Each team identifies one player as their Medium for the session. Players then decide if the Open Séance will be held with the Experience Spirits (light purple card faces) or with the Specialist Spirits (blue card faces). 
 
-### 1. The Experience Séance 😮
+#### 1. The Experience Séance 😮
 
 The group can choose to guess everyday experiences in research practice. These involve examples of not only successes of Open Science, but also challenges and setbacks. In this case, the light yellow sides of the Séance cards is used.  
 
-### 2. The Specialist Séance 🤓
+#### 2. The Specialist Séance 🤓
 
 If the Séance circle is more advanced, they can also decide to play the game around specialist terms in the realm of Open Science. These include the lingo that professional staff and seasoned Open Science practicioners use to communicate complex concepts in a concise manner. Use the light blue sides of the Séance cards for this format.
 
@@ -37,34 +39,32 @@ Below is an example board of 20 Experience cards:
 <table>
   <tbody>
     <tr>
-      <td>Copyright conundrums</td>
-      <td>Code that only works on my computer</td>
-      <td>European AI</td>
-      <td>Science done right</td>
-    </tr>
-    <tr>
-      <td>Profit over science</td>
-      <td>Journal flipping</td>
-      <td>Verifiable results</td>
-      <td>10k stars on GitHub</td>
-    </tr>
-    <tr>
-      <td>Open, but broke</td>
-      <td>Pseudoscience influencers</td>
-      <td>Data papers</td>
-      <td>Shadow IT</td>
-    </tr>
-    <tr>
-      <td>My supervisor said so</td>
-      <td>Coding with my crush</td>
-      <td>Open Science Games</td>
-      <td>Impostor Syndrome</td>
-    </tr>
-    <tr>
       <td>Code version history</td>
+      <td>My supervisor said so</td>
+      <td>Open, but broke</td>
+      <td>Profit over science</td>
+      <td>Copyright conundrums</td>
+    </tr>
+    <tr>
       <td>Supervisor ghosting</td>
+      <td>Coding with my crush</td>
+      <td>Pseudoscience influencers</td>
+      <td>Journal flipping</td>
+      <td>Code that only works on my computer</td>
+    </tr>
+    <tr>
       <td>Power analysis</td>
+      <td>Open Science Games</td>
+      <td>Data papers</td>
+      <td>Verifiable results</td>
+      <td>European AI</td>
+    </tr>
+    <tr>
       <td>Second author</td>
+      <td>Impostor Syndrome</td>
+      <td>Shadow IT</td>
+      <td>10k stars on GitHub</td>
+      <td>Science done right</td>
     </tr>
   </tbody>
 </table>
@@ -74,37 +74,44 @@ The Mediums drew the following DMP card:
 <table>
   <tbody>
     <tr>
-      <td>⚪</td><td>⚪</td><td>🟣</td><td>🟡</td>
+      <td>🟡</td><td>⚪</td><td>🟣</td><td>⚪</td><td>⚪</td>
     </tr>
     <tr>
-      <td>⚪</td><td>🟣</td><td>🟡</td><td>🟣</td>
+      <td>⚪</td><td>⚪</td><td>☠️</td><td>🟣</td><td>⚪</td>
     </tr>
     <tr>
-      <td>🟣</td><td>☠️</td><td>🟡</td><td>🟣</td>
+      <td>🟡</td><td>🟡</td><td>🟡</td><td>🟡</td><td>🟣</td>
     </tr>
     <tr>
-      <td>⚪</td><td>⚪</td><td>🟡</td><td>🟣</td>
-    </tr>
-    <tr>
-      <td>🟡</td><td>⚪</td><td>🟡</td><td>🟡</td>
+      <td>🟡</td><td>🟣</td><td>🟣</td><td>🟣</td><td>🟡</td>
     </tr>
   </tbody>
 </table>
 
 This means that the following Open Spirits belong to team 🟡 yellow
-- Science done right
-- Verifiable results
-- Data papers
-- Open Science Games
-- Second author
-- Power analysis
+
 - Code version history
+
+- Power analysis
+
+- Open Science Games
+
+- Data papers
+
+- Verifiable results
+
+- Second author
+
+- Science done right
+
 
 Vice versa, the 🟣 purple Spirits belong to that team.
 
 The ⚪ blank spaces are neutral ⚪ Citizen Spirits. But there is also an sinister spirit hiding under "Pseudoscience influencers". This is the evil ☠️ Publish-Geist.
 
 </details>
+
+### Beginning the Séance
 
 Decide which team begins as team 🟡 yellow. The Medium sends out their first message to their team, describing one or several of the friendly spirits of that team. The message must be FAIR, meaning
 
@@ -116,6 +123,8 @@ R - Rudimentary: The Medium should only say that word and not communicate about 
 After the FAIR message has been sent, it is up to the other players of team 🟡 yellow to use it to identify their friendly Open Spirits. They may discuss the meaning of the message amongst each other and eventually vote on the first card they want to pick. The Medium reveals the nature of the Open Spirit by placing the corresponding point card on top of the chosen card, as shown by the DMP. The players then continue to select cards up until the amount mentioned in the FAIR message, plus one, is reached. For each revealed Spirit of the current team, that team receives one point. Each Spirit that is of the opposing team's color, however, awards that team a point. Revealed neutral ⚪ Citizen Spirits give no points. If at any point in time the evil ☠️ Publish-Geist is revealed, the current team loses and the game ends immediately.
 
 Note that at any time during this process, if the players are unsure which Spirit to pick, they may instead also decide to stop choosing spirits and end their turn.
+
+### The end of the Séance
 
 The teams take turns until either all 🟡 yellow or all 🟣 purple Open Spirits are revealed. In that case, the team with the most revealed friendly Open Spirits wins. The game also ends if a team reveals the evil ☠️ Publishgeist. In that case the other team wins automatically.  
 
