@@ -1,5 +1,7 @@
 # Open Séance 👻✨
 
+<img src="assets/img/cover.png" alt="Open Séance Cover" width="400">
+
 This repository contains the website, cards, and code to create cards for Open Séance, an educational game where players have to find creative ways to describe concepts around Open Science. If you are interested in the printed game, please reach out to us (rdm@vu.nl).
 
 ## Goal of the Game

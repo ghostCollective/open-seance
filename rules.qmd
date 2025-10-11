@@ -2,35 +2,4 @@
 title: Rules of the Game
 ---
 
-**The Game:** Two teams, each with a Medium. The mediums sit together and one side of the board and use the séance cheat sheet to see which words the teams need to guess. The mediums give one word clues to nudge their team into choosing the right cards.
-
-**Components:**
-
-65 x Technical terms / Experience cards
-10 x Séance Cheat Sheets
-6x Yellow Ghosts
-5x Lilac Ghosts
-10x Blue Ghosts
-
-**Set-up:** Lay out the Technical terms / Experience cards in a 4x5 grid. Each team chooses a medium who sits next to the other medium opposed on the table. The team that has been haunted by a predatory journal most recently starts.
-
-**Goal:** Be the first team to reveal all of their Yellow or Lilac words on the grid.
-
-**Start of game:** Yellow always starts, but has to guess one card extra. Choose either the side with the Technical Terms or Experiences.
-Turn: The Medium gives one word + a number as a clue. The Players of the Medium’s team guess which cards are meant, up to the number given + one extra. Cover the guessed words with your ghost cards.
-
-**Legend as stated on the séance cheat sheet:**
-
-- Yellow = words belonging to the Yellow team
-- Lilac = words belonging to the Lilac team
-- Blue = neutral words
-- Black/Polterjournal = instant loss if chosen
-
-**Wrong Guesses:**
-
-Blue: the turn ends immediately, no other effect.  
-Other team's color: that word is revealed for the other team and the turn ends.
-
-**End Game:**
-A team wins by revealing all of their words first.
-Choosing the Polterjournal causes an immediate loss.
+{{< include extracted_rules.qmd >}}
