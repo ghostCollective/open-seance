@@ -9,6 +9,7 @@ on:
         - 'README.md'
         - '**.png'
         - '**.svg'
+        - '**.R'
   
 name: Quarto Publish
   
