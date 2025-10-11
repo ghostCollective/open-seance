@@ -1,5 +1,5 @@
-Package: openlovesscience
-Title: Website for the Open Loves Science game
+Package: openseance
+Title: Website for the Open Seance game
 Version: 1.0.0
 Description: What the package does (one paragraph).
 Authors@R: 
@@ -11,9 +11,11 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 Imports: 
     dplyr,
+    fs,
     gh,
     glue,
     httr,
+    readr,
     stringr,
     tibble,
     yaml
