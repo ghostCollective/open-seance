@@ -2,4 +2,4 @@
 title: Rules of the Game
 ---
 
-{{< include extracted_rules.qmd >}}
+{{< include _extracted_rules.md >}}
