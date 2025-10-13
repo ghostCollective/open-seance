@@ -29,7 +29,7 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
 
       - name: Run R script
-        run: Rscript scripts/extract_rules.R
+        run: Rscript scripts/extract_content.R
       
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2

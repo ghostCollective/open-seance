@@ -4,21 +4,8 @@
 
 ## Goal of the Game
 
-Contact the Open Spirits!
+{{< include _extracted_description.md >}}
 
 ## Acknowledgements
 
-This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
-
-
-- Bjørn Bartholdy, TU Delft
-- Dafne Jansen, Universiteit Utrecht
-- Dan Rudmann, Leiden University
-- Elisa Rodenburg, Vrije Universiteit Amsterdam 
-- Eva Lekkerkerker, University of Amsterdam
-- Lena Karvovskaya, Vrije Universiteit Amsterdam
-- Lieke de Boer, Netherlands eScience Center
-- Meron Vermaas, Vrije Universiteit Amsterdam
-- Stefan Kirsch, Tilburg University
-- Stephanie van de Sandt, Vrije Universiteit Amsterdam
-- Tycho Hofstra, Vrije Universiteit Amsterdam
+{{< include _extracted_acknowledgements.md >}}
