@@ -3,7 +3,19 @@ title: Technical cards
 ---
 
 ## Accessible {#accessible}
-<NA>
+According to the [Go FAIR initiative](https://www.go-fair.org/fair-principles/), FAIR research data should be made *accessible* in the following ways: 
+
+> Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorisation.
+> 
+> A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+>
+> A1.1 The protocol is open, free, and universally implementable
+>
+> A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+>
+> A2. Metadata are accessible, even when the data are no longer available
+
+[FAIR software](https://fair-software.nl/) gives five practical recommendations to make your code FAIR.
 
 ## Article Processing Charge {#article-processing-charge}
 <https://vu.nl/en/about-vu/divisions/university-library/more-about/gold-open-access-deals-with-publishers>
@@ -57,10 +69,30 @@ title: Technical cards
 <https://en.wikipedia.org/wiki/Institutional_review_board>
 
 ## FAIR {#fair}
+In 2026 Wilkinson et al. argued:
+
+> There is an urgent need to improve the infrastructure supporting the reuse of scholarly data. A diverse set of stakeholders—representing academia, industry, funding agencies, and scholarly publishers—have come together to design and jointly endorse a concise and measureable set of principles that we refer to as the FAIR Data Principles.
+
+FAIR stands for Findable, Accessible, Interoperable and Reusable.
+
+The [Go FAIR initiative](https://www.go-fair.org/fair-principles/), gives a great overview on how data can be made FAIR. [FAIR software](https://fair-software.nl/) gives five practical recommendations to make your code FAIR.
+
 <https://www.go-fair.org/fair-principles/>
 
 ## Findable {#findable}
-<NA>
+According to the [Go FAIR initiative](https://www.go-fair.org/fair-principles/), FAIR research data should be made *findable* in the following ways: 
+
+> The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.
+> 
+> F1. (Meta)data are assigned a globally unique and persistent identifier
+> 
+> F2. Data are described with rich metadata (defined by R1 below)
+> 
+> F3. Metadata clearly and explicitly include the identifier of the data they describe
+> 
+> F4. (Meta)data are registered or indexed in a searchable resource
+
+[FAIR software](https://fair-software.nl/) gives five practical recommendations to make your code FAIR.
 
 ## Funder requirements {#funder-requirements}
 <NA>
@@ -75,7 +107,17 @@ title: Technical cards
 <NA>
 
 ## Interoperable {#interoperable}
-<NA>
+According to the [Go FAIR initiative](https://www.go-fair.org/fair-principles/), FAIR research data should be made *interoperable* in the following ways: 
+
+> The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
+>
+> I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+> 
+> I2. (Meta)data use vocabularies that follow FAIR principles
+> 
+> I3. (Meta)data include qualified references to other (meta)data
+
+[FAIR software](https://fair-software.nl/) gives five practical recommendations to make your code FAIR.
 
 ## Linked Data {#linked-data}
 <NA>
@@ -153,25 +195,51 @@ title: Technical cards
 <NA>
 
 ## Research Software Engineer {#research-software-engineer}
+
+> In short, the term Research Software Engineer (RSE) refers to a professional who combines expertise in software development and methodology with deep knowledge of one or more research fields. RSEs focus on developing and/or maintaining research software, with the aim to answer research questions and solve problems within their research disciplines.
+
 <https://doi.org/10.5281/zenodo.7994286>
 
 ## Retraction watch {#retraction-watch}
-<https://retractionwatch.com/>
+
+> Tracking retractions as a window into the scientific process
+
+<https://retractionwatch.com>
 
 ## Reusable {#reusable}
-<NA>
+According to the [Go FAIR initiative](https://www.go-fair.org/fair-principles/), FAIR research data should be made *reusable* in the following ways: 
+
+> The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
+>
+> R1. (Meta)data are richly described with a plurality of accurate and relevant attributes
+> 
+> R1.1. (Meta)data are released with a clear and accessible data usage license
+> 
+> R1.2. (Meta)data are associated with detailed provenance
+> 
+> R1.3. (Meta)data meet domain-relevant community standards
+
+For research software [FAIR software](https://fair-software.nl/) gives five practical recommendations to make your work FAIR.
 
 ## Reviewer Fatigue {#reviewer-fatigue}
 <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reviewer-fatigue-why-scholars-decline-to-review-their-peers-work/762AE347CF96E6FD20DB64B1C0D48C25>
 
 ## Rights Retention Strategy {#rights-retention-strategy}
-<https://vu.nl/en/about-vu/divisions/university-library/more-about/rights-retention-strategy>
+
+> Publish with Power: Protect your rights
+
+<https://www.coalition-s.org/resources/rights-retention-strategy>
 
 ## Science Communication {#science-communication}
 <NA>
 
 ## Self-archiving {#self-archiving}
-<NA>
+
+> Self-archiving allows authors to upload copies of their work to repositories, making research more accessible. Many publishers allow self-archiving, but they often impose specific conditions, such as embargo periods or restrictions on which version of the manuscript can be shared. Some publishers allow authors to upload the peer-reviewed version after a certain waiting period, while others only allow the preprint version. However, some publishers may still prohibit self-archiving altogether, and authors may need to negotiate permissions or seek individual agreements.
+
+https://www.openaccess.nl/en/publishing/self-archiving-and-repositories
+
+See also: [Rights Retention Strategy](#rights-retention-strategy)
 
 ## Societal impact {#societal-impact}
 <NA>
@@ -183,6 +251,9 @@ title: Technical cards
 <NA>
 
 ## Taverne {#taverne}
+
+> The author of a short scientific work funded either wholly or partially by Dutch public funds is entitled to make that work publicly available for no consideration following a reasonable period of time after the work was first published, provided that clear reference is made to the source of the first publication of the work.
+
 <https://library.maastrichtuniversity.nl/research/publishing/information/sharing-research-outputs/taverne/>
 
 ## Team science {#team-science}
@@ -192,8 +263,12 @@ title: Technical cards
 <NA>
 
 ## Version Control {#version-control}
-<NA>
+
+This: <https://book.the-turing-way.org/reproducible-research/vcs>
+    
+Not this:
+
+![<http://www.phdcomics.com/comics/archive/phd101212s.gif>](http://www.phdcomics.com/comics/archive/phd101212s.gif)
 
 ## Zenodo {#zenodo}
 <https://zenodo.org/>
-
