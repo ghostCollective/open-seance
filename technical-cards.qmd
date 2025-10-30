@@ -195,10 +195,16 @@ According to the [Go FAIR initiative](https://www.go-fair.org/fair-principles/),
 <NA>
 
 ## Research Software Engineer {#research-software-engineer}
+
+> In short, the term Research Software Engineer (RSE) refers to a professional who combines expertise in software development and methodology with deep knowledge of one or more research fields. RSEs focus on developing and/or maintaining research software, with the aim to answer research questions and solve problems within their research disciplines.
+
 <https://doi.org/10.5281/zenodo.7994286>
 
 ## Retraction watch {#retraction-watch}
-<https://retractionwatch.com/>
+
+> Tracking retractions as a window into the scientific process
+
+<https://retractionwatch.com>
 
 ## Reusable {#reusable}
 According to the [Go FAIR initiative](https://www.go-fair.org/fair-principles/), FAIR research data should be made *reusable* in the following ways: 
@@ -219,13 +225,21 @@ For research software [FAIR software](https://fair-software.nl/) gives five prac
 <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reviewer-fatigue-why-scholars-decline-to-review-their-peers-work/762AE347CF96E6FD20DB64B1C0D48C25>
 
 ## Rights Retention Strategy {#rights-retention-strategy}
-<https://vu.nl/en/about-vu/divisions/university-library/more-about/rights-retention-strategy>
+
+> Publish with Power: Protect your rights
+
+<https://www.coalition-s.org/resources/rights-retention-strategy>
 
 ## Science Communication {#science-communication}
 <NA>
 
 ## Self-archiving {#self-archiving}
-<NA>
+
+> Self-archiving allows authors to upload copies of their work to repositories, making research more accessible. Many publishers allow self-archiving, but they often impose specific conditions, such as embargo periods or restrictions on which version of the manuscript can be shared. Some publishers allow authors to upload the peer-reviewed version after a certain waiting period, while others only allow the preprint version. However, some publishers may still prohibit self-archiving altogether, and authors may need to negotiate permissions or seek individual agreements.
+
+https://www.openaccess.nl/en/publishing/self-archiving-and-repositories
+
+See also: [Rights Retention Strategy](#rights-retention-strategy)
 
 ## Societal impact {#societal-impact}
 <NA>
@@ -237,6 +251,9 @@ For research software [FAIR software](https://fair-software.nl/) gives five prac
 <NA>
 
 ## Taverne {#taverne}
+
+> The author of a short scientific work funded either wholly or partially by Dutch public funds is entitled to make that work publicly available for no consideration following a reasonable period of time after the work was first published, provided that clear reference is made to the source of the first publication of the work.
+
 <https://library.maastrichtuniversity.nl/research/publishing/information/sharing-research-outputs/taverne/>
 
 ## Team science {#team-science}
@@ -246,8 +263,12 @@ For research software [FAIR software](https://fair-software.nl/) gives five prac
 <NA>
 
 ## Version Control {#version-control}
-<NA>
+
+This: <https://book.the-turing-way.org/reproducible-research/vcs>
+    
+Not this:
+
+![<http://www.phdcomics.com/comics/archive/phd101212s.gif>](http://www.phdcomics.com/comics/archive/phd101212s.gif)
 
 ## Zenodo {#zenodo}
 <https://zenodo.org/>
-

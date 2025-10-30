@@ -153,7 +153,10 @@ title: Experience cards
 <NA>
 
 ## Yelling at ChatGPT {#yelling-at-chat-gpt}
-<NA>
+
+> Calling chatbot inaccuracies ‘hallucinations’ feeds in to overblown hype about their abilities among technology cheerleaders, and could lead to unnecessary consternation among the general public. It also suggests solutions to the inaccuracy problems which might not work, and could lead to misguided efforts at AI alignment amongst specialists. It can also lead to the wrong attitude towards the machine when it gets things right: the inaccuracies show that it is bullshitting, even when it’s right. Calling these inaccuracies ‘bullshit’ rather than ‘hallucinations’ isn’t just more accurate (as we’ve argued); it’s good science and technology communication in an area that sorely needs it.
+
+<https://doi.org/10.1007/s10676-024-09775-5>
 
 ## Legal hot water {#legal-hot-water}
 <NA>
@@ -162,15 +165,30 @@ title: Experience cards
 <https://www.youtube.com/watch?v=_zfN9wnPvU0>
 
 ## Power analysis {#power-analysis}
+    
+> When designing a study, you need to justify the sample size you aim to collect. If one of your goals is to observe a p-values lower than the alpha level you decided upon (e.g., 0.05), one justification for the sample size can be a power analysis. A power analysis tells you the probability of observing a statistically significant effect, based on a specific sample size, alpha level, and true effect size.
+
 <https://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html>
 
 ## Impostor Syndrome {#impostor-syndrome}
-<NA>
+
+![](http://www.phdcomics.com/comics/archive/phd072621s.gif)
 
 ## Expensive proprietary software {#expensive-proprietary-software}
-<NA>
+
+
+>[...] while an XML schema can be simple, it can also be unnecessarily complex, bloated, convoluted and difficult to implement without specific knowledge of its features [...] In this case, complexity is an intentional tactic used to lock users into a vendor, as is the case with the Microsoft 365 document format.    
+>
+> To illustrate how this translates into a lock-in strategy, consider a railway system where the tracks are accessible to all, but the main train manufacturer imposes its own incredibly complicated control system. In theory, anyone could build a train compatible with the tracks, but the control system specifications are so convoluted that only the main train manufacturer can ultimately offer rail services.
+>
+> The worst thing is that passengers don’t realise they are being held hostage by technical constraints that they cannot understand until ticket prices rise or the number of cities served declines. At this point, the main manufacturer can dictate its terms, which passengers are forced to accept.
+
+<https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool>
 
 ## Asking volunteers to count birds {#asking-volunteers-to-count-birds}
+    
+> The combined data from these citizen science projects help researchers understand factors that affect bird populations over a long period of time. Comparing bird counts, photographs and other data on an annual basis provides insight into species' health, how disease is spread, changing trends in migration and distribution, and much more.
+
 <https://www.huffpost.com/entry/counting-birds-over-a-cen_b_12487152>
 
 ## Verifiable results {#verifiable-results}
@@ -189,7 +207,10 @@ title: Experience cards
 <NA>
 
 ## Citing Wikipedia {#citing-wikipedia}
-<NA>
+
+> It’s important to remember that Wikipedia isn’t something created in a factory somewhere by people you’ll never meet. It’s the encyclopedia anyone can edit, and that includes you too. Scholarly communication shouldn’t be limited to conferences, journals, and your students.  Come help Wikipedia volunteers as they assemble the world’s most widely-used and largest information resource.
+
+<https://wikimediafoundation.org/news/2018/11/13/five-ways-academics-can-contribute-to-wikipedia>
 
 ## Pseudoscience influencers {#pseudoscience-influencers}
 <https://www.jmir.org/2024/1/e38786>
