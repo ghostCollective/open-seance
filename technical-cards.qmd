@@ -39,7 +39,7 @@ title: Technical cards
 <https://doi.org/10.53962/k06w-2ket>
 
 ## Copyright {#copyright}
-<NAhttps://uba.uva.nl/en/support/copyright/researchers/researchers.html>
+<https://uba.uva.nl/en/support/copyright/researchers/researchers.html>
 
 ## Data Management Plan {#data-management-plan}
 <https://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans>
