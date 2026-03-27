@@ -17,8 +17,6 @@ website:
             text: "Technical cards"
           - href: experience-cards.qmd
             text: "Experience cards"
-      #- href: cards.qmd
-        #text: "Cards"
       - href: rules.qmd
         text: "Rules"
     right: 
